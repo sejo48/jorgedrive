@@ -1,21 +1,444 @@
 [
   {
     "tituloSerie": "La Isla de Gilligan",
-    "descripcion": "1964 ‧ Comedia de situación ‧ 1 temporadas",
+    "descripcion": "1964 ‧ Comedia de situación ‧ 3 Temporadas",
     "imagen": "https://images.justwatch.com/poster/237948613/s718/la-isla-de-gilligan.jpg",
-    "episodios": [
-      { "tituloEpisodio": "T01 E01: El Comienzo", "urlDrive": "https://drive.google.com/file/d/1GFRnkQF2FnMviODA4c-jHvKbNlU9YnGk/preview" },
-      { "tituloEpisodio": "T01 E02: La Aventura", "urlDrive": "https://drive.google.com/file/d/17mHPa_2BS4rMZUAC5-_YHHYcCejX8C3F/preview" },
-      { "tituloEpisodio": "T01 E03: El Descubrimiento", "urlDrive": "https://drive.google.com/file/d/1VUPjHPbvF0T8FoP_iVt3h6mRM_ABTjwX/preview" }
-    ]
-  },
-  {
-    "tituloSerie": "Nombre de la Serie 2",
-    "descripcion": "Otra serie interesante.",
-    "imagen": "URL_IMAGEN_PORTADA_SERIE_2",
-    "episodios": [
-      { "tituloEpisodio": "Capítulo 1", "urlDrive": "URL_DRIVE_S02E01_PREVIEW" },
-      { "tituloEpisodio": "Capítulo 2", "urlDrive": "URL_DRIVE_S02E02_PREVIEW" }
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "E01: [Título Episodio 1]",
+            "urlDrive": "URL_DRIVE_T01E01"
+          },
+          {
+            "tituloEpisodio": "E02: [Título Episodio 2]",
+            "urlDrive": "URL_DRIVE_T01E02"
+          },
+          {
+            "tituloEpisodio": "E03: [Título Episodio 3]",
+            "urlDrive": "URL_DRIVE_T01E03"
+          },
+          {
+            "tituloEpisodio": "E04: [Título Episodio 4]",
+            "urlDrive": "URL_DRIVE_T01E04"
+          },
+          {
+            "tituloEpisodio": "E05: [Título Episodio 5]",
+            "urlDrive": "URL_DRIVE_T01E05"
+          },
+          {
+            "tituloEpisodio": "E06: [Título Episodio 6]",
+            "urlDrive": "URL_DRIVE_T01E06"
+          },
+          {
+            "tituloEpisodio": "E07: [Título Episodio 7]",
+            "urlDrive": "URL_DRIVE_T01E07"
+          },
+          {
+            "tituloEpisodio": "E08: [Título Episodio 8]",
+            "urlDrive": "URL_DRIVE_T01E08"
+          },
+          {
+            "tituloEpisodio": "E09: [Título Episodio 9]",
+            "urlDrive": "URL_DRIVE_T01E09"
+          },
+          {
+            "tituloEpisodio": "E10: [Título Episodio 10]",
+            "urlDrive": "URL_DRIVE_T01E10"
+          },
+          {
+            "tituloEpisodio": "E11: [Título Episodio 11]",
+            "urlDrive": "URL_DRIVE_T01E11"
+          },
+          {
+            "tituloEpisodio": "E12: [Título Episodio 12]",
+            "urlDrive": "URL_DRIVE_T01E12"
+          },
+          {
+            "tituloEpisodio": "E13: [Título Episodio 13]",
+            "urlDrive": "URL_DRIVE_T01E13"
+          },
+          {
+            "tituloEpisodio": "E14: [Título Episodio 14]",
+            "urlDrive": "URL_DRIVE_T01E14"
+          },
+          {
+            "tituloEpisodio": "E15: [Título Episodio 15]",
+            "urlDrive": "URL_DRIVE_T01E15"
+          },
+          {
+            "tituloEpisodio": "E16: [Título Episodio 16]",
+            "urlDrive": "URL_DRIVE_T01E16"
+          },
+          {
+            "tituloEpisodio": "E17: [Título Episodio 17]",
+            "urlDrive": "URL_DRIVE_T01E17"
+          },
+          {
+            "tituloEpisodio": "E18: [Título Episodio 18]",
+            "urlDrive": "URL_DRIVE_T01E18"
+          },
+          {
+            "tituloEpisodio": "E19: [Título Episodio 19]",
+            "urlDrive": "URL_DRIVE_T01E19"
+          },
+          {
+            "tituloEpisodio": "E20: [Título Episodio 20]",
+            "urlDrive": "URL_DRIVE_T01E20"
+          },
+          {
+            "tituloEpisodio": "E21: [Título Episodio 21]",
+            "urlDrive": "URL_DRIVE_T01E21"
+          },
+          {
+            "tituloEpisodio": "E22: [Título Episodio 22]",
+            "urlDrive": "URL_DRIVE_T01E22"
+          },
+          {
+            "tituloEpisodio": "E23: [Título Episodio 23]",
+            "urlDrive": "URL_DRIVE_T01E23"
+          },
+          {
+            "tituloEpisodio": "E24: [Título Episodio 24]",
+            "urlDrive": "URL_DRIVE_T01E24"
+          },
+          {
+            "tituloEpisodio": "E25: [Título Episodio 25]",
+            "urlDrive": "URL_DRIVE_T01E25"
+          },
+          {
+            "tituloEpisodio": "E26: [Título Episodio 26]",
+            "urlDrive": "URL_DRIVE_T01E26"
+          },
+          {
+            "tituloEpisodio": "E27: [Título Episodio 27]",
+            "urlDrive": "URL_DRIVE_T01E27"
+          },
+          {
+            "tituloEpisodio": "E28: [Título Episodio 28]",
+            "urlDrive": "URL_DRIVE_T01E28"
+          },
+          {
+            "tituloEpisodio": "E29: [Título Episodio 29]",
+            "urlDrive": "URL_DRIVE_T01E29"
+          },
+          {
+            "tituloEpisodio": "E30: [Título Episodio 30]",
+            "urlDrive": "URL_DRIVE_T01E30"
+          },
+          {
+            "tituloEpisodio": "E31: [Título Episodio 31]",
+            "urlDrive": "URL_DRIVE_T01E31"
+          },
+          {
+            "tituloEpisodio": "E32: [Título Episodio 32]",
+            "urlDrive": "URL_DRIVE_T01E32"
+          },
+          {
+            "tituloEpisodio": "E33: [Título Episodio 33]",
+            "urlDrive": "URL_DRIVE_T01E33"
+          },
+          {
+            "tituloEpisodio": "E34: [Título Episodio 34]",
+            "urlDrive": "URL_DRIVE_T01E34"
+          },
+          {
+            "tituloEpisodio": "E35: [Título Episodio 35]",
+            "urlDrive": "URL_DRIVE_T01E35"
+          }
+        ]
+      },
+      {
+        "numeroTemporada": 2,
+        "episodios": [
+          {
+            "tituloEpisodio": "E01: [Título Episodio 1]",
+            "urlDrive": "URL_DRIVE_T02E01"
+          },
+          {
+            "tituloEpisodio": "E02: [Título Episodio 2]",
+            "urlDrive": "URL_DRIVE_T02E02"
+          },
+          {
+            "tituloEpisodio": "E03: [Título Episodio 3]",
+            "urlDrive": "URL_DRIVE_T02E03"
+          },
+          {
+            "tituloEpisodio": "E04: [Título Episodio 4]",
+            "urlDrive": "URL_DRIVE_T02E04"
+          },
+          {
+            "tituloEpisodio": "E05: [Título Episodio 5]",
+            "urlDrive": "URL_DRIVE_T02E05"
+          },
+          {
+            "tituloEpisodio": "E06: [Título Episodio 6]",
+            "urlDrive": "URL_DRIVE_T02E06"
+          },
+          {
+            "tituloEpisodio": "E07: [Título Episodio 7]",
+            "urlDrive": "URL_DRIVE_T02E07"
+          },
+          {
+            "tituloEpisodio": "E08: [Título Episodio 8]",
+            "urlDrive": "URL_DRIVE_T02E08"
+          },
+          {
+            "tituloEpisodio": "E09: [Título Episodio 9]",
+            "urlDrive": "URL_DRIVE_T02E09"
+          },
+          {
+            "tituloEpisodio": "E10: [Título Episodio 10]",
+            "urlDrive": "URL_DRIVE_T02E10"
+          },
+          {
+            "tituloEpisodio": "E11: [Título Episodio 11]",
+            "urlDrive": "URL_DRIVE_T02E11"
+          },
+          {
+            "tituloEpisodio": "E12: [Título Episodio 12]",
+            "urlDrive": "URL_DRIVE_T02E12"
+          },
+          {
+            "tituloEpisodio": "E13: [Título Episodio 13]",
+            "urlDrive": "URL_DRIVE_T02E13"
+          },
+          {
+            "tituloEpisodio": "E14: [Título Episodio 14]",
+            "urlDrive": "URL_DRIVE_T02E14"
+          },
+          {
+            "tituloEpisodio": "E15: [Título Episodio 15]",
+            "urlDrive": "URL_DRIVE_T02E15"
+          },
+          {
+            "tituloEpisodio": "E16: [Título Episodio 16]",
+            "urlDrive": "URL_DRIVE_T02E16"
+          },
+          {
+            "tituloEpisodio": "E17: [Título Episodio 17]",
+            "urlDrive": "URL_DRIVE_T02E17"
+          },
+          {
+            "tituloEpisodio": "E18: [Título Episodio 18]",
+            "urlDrive": "URL_DRIVE_T02E18"
+          },
+          {
+            "tituloEpisodio": "E19: [Título Episodio 19]",
+            "urlDrive": "URL_DRIVE_T02E19"
+          },
+          {
+            "tituloEpisodio": "E20: [Título Episodio 20]",
+            "urlDrive": "URL_DRIVE_T02E20"
+          },
+          {
+            "tituloEpisodio": "E21: [Título Episodio 21]",
+            "urlDrive": "URL_DRIVE_T02E21"
+          },
+          {
+            "tituloEpisodio": "E22: [Título Episodio 22]",
+            "urlDrive": "URL_DRIVE_T02E22"
+          },
+          {
+            "tituloEpisodio": "E23: [Título Episodio 23]",
+            "urlDrive": "URL_DRIVE_T02E23"
+          },
+          {
+            "tituloEpisodio": "E24: [Título Episodio 24]",
+            "urlDrive": "URL_DRIVE_T02E24"
+          },
+          {
+            "tituloEpisodio": "E25: [Título Episodio 25]",
+            "urlDrive": "URL_DRIVE_T02E25"
+          },
+          {
+            "tituloEpisodio": "E26: [Título Episodio 26]",
+            "urlDrive": "URL_DRIVE_T02E26"
+          },
+          {
+            "tituloEpisodio": "E27: [Título Episodio 27]",
+            "urlDrive": "URL_DRIVE_T02E27"
+          },
+          {
+            "tituloEpisodio": "E28: [Título Episodio 28]",
+            "urlDrive": "URL_DRIVE_T02E28"
+          },
+          {
+            "tituloEpisodio": "E29: [Título Episodio 29]",
+            "urlDrive": "URL_DRIVE_T02E29"
+          },
+          {
+            "tituloEpisodio": "E30: [Título Episodio 30]",
+            "urlDrive": "URL_DRIVE_T02E30"
+          },
+          {
+            "tituloEpisodio": "E31: [Título Episodio 31]",
+            "urlDrive": "URL_DRIVE_T02E31"
+          },
+          {
+            "tituloEpisodio": "E32: [Título Episodio 32]",
+            "urlDrive": "URL_DRIVE_T02E32"
+          },
+          {
+            "tituloEpisodio": "E33: [Título Episodio 33]",
+            "urlDrive": "URL_DRIVE_T02E33"
+          },
+          {
+            "tituloEpisodio": "E34: [Título Episodio 34]",
+            "urlDrive": "URL_DRIVE_T02E34"
+          },
+          {
+            "tituloEpisodio": "E35: [Título Episodio 35]",
+            "urlDrive": "URL_DRIVE_T02E35"
+          }
+        ]
+      },
+      {
+        "numeroTemporada": 3,
+        "episodios": [
+          {
+            "tituloEpisodio": "E01: [Título Episodio 1]",
+            "urlDrive": "URL_DRIVE_T03E01"
+          },
+          {
+            "tituloEpisodio": "E02: [Título Episodio 2]",
+            "urlDrive": "URL_DRIVE_T03E02"
+          },
+          {
+            "tituloEpisodio": "E03: [Título Episodio 3]",
+            "urlDrive": "URL_DRIVE_T03E03"
+          },
+          {
+            "tituloEpisodio": "E04: [Título Episodio 4]",
+            "urlDrive": "URL_DRIVE_T03E04"
+          },
+          {
+            "tituloEpisodio": "E05: [Título Episodio 5]",
+            "urlDrive": "URL_DRIVE_T03E05"
+          },
+          {
+            "tituloEpisodio": "E06: [Título Episodio 6]",
+            "urlDrive": "URL_DRIVE_T03E06"
+          },
+          {
+            "tituloEpisodio": "E07: [Título Episodio 7]",
+            "urlDrive": "URL_DRIVE_T03E07"
+          },
+          {
+            "tituloEpisodio": "E08: [Título Episodio 8]",
+            "urlDrive": "URL_DRIVE_T03E08"
+          },
+          {
+            "tituloEpisodio": "E09: [Título Episodio 9]",
+            "urlDrive": "URL_DRIVE_T03E09"
+          },
+          {
+            "tituloEpisodio": "E10: [Título Episodio 10]",
+            "urlDrive": "URL_DRIVE_T03E10"
+          },
+          {
+            "tituloEpisodio": "E11: [Título Episodio 11]",
+            "urlDrive": "URL_DRIVE_T03E11"
+          },
+          {
+            "tituloEpisodio": "E12: [Título Episodio 12]",
+            "urlDrive": "URL_DRIVE_T03E12"
+          },
+          {
+            "tituloEpisodio": "E13: [Título Episodio 13]",
+            "urlDrive": "URL_DRIVE_T03E13"
+          },
+          {
+            "tituloEpisodio": "E14: [Título Episodio 14]",
+            "urlDrive": "URL_DRIVE_T03E14"
+          },
+          {
+            "tituloEpisodio": "E15: [Título Episodio 15]",
+            "urlDrive": "URL_DRIVE_T03E15"
+          },
+          {
+            "tituloEpisodio": "E16: [Título Episodio 16]",
+            "urlDrive": "URL_DRIVE_T03E16"
+          },
+          {
+            "tituloEpisodio": "E17: [Título Episodio 17]",
+            "urlDrive": "URL_DRIVE_T03E17"
+          },
+          {
+            "tituloEpisodio": "E18: [Título Episodio 18]",
+            "urlDrive": "URL_DRIVE_T03E18"
+          },
+          {
+            "tituloEpisodio": "E19: [Título Episodio 19]",
+            "urlDrive": "URL_DRIVE_T03E19"
+          },
+          {
+            "tituloEpisodio": "E20: [Título Episodio 20]",
+            "urlDrive": "URL_DRIVE_T03E20"
+          },
+          {
+            "tituloEpisodio": "E21: [Título Episodio 21]",
+            "urlDrive": "URL_DRIVE_T03E21"
+          },
+          {
+            "tituloEpisodio": "E22: [Título Episodio 22]",
+            "urlDrive": "URL_DRIVE_T03E22"
+          },
+          {
+            "tituloEpisodio": "E23: [Título Episodio 23]",
+            "urlDrive": "URL_DRIVE_T03E23"
+          },
+          {
+            "tituloEpisodio": "E24: [Título Episodio 24]",
+            "urlDrive": "URL_DRIVE_T03E24"
+          },
+          {
+            "tituloEpisodio": "E25: [Título Episodio 25]",
+            "urlDrive": "URL_DRIVE_T03E25"
+          },
+          {
+            "tituloEpisodio": "E26: [Título Episodio 26]",
+            "urlDrive": "URL_DRIVE_T03E26"
+          },
+          {
+            "tituloEpisodio": "E27: [Título Episodio 27]",
+            "urlDrive": "URL_DRIVE_T03E27"
+          },
+          {
+            "tituloEpisodio": "E28: [Título Episodio 28]",
+            "urlDrive": "URL_DRIVE_T03E28"
+          },
+          {
+            "tituloEpisodio": "E29: [Título Episodio 29]",
+            "urlDrive": "URL_DRIVE_T03E29"
+          },
+          {
+            "tituloEpisodio": "E30: [Título Episodio 30]",
+            "urlDrive": "URL_DRIVE_T03E30"
+          },
+          {
+            "tituloEpisodio": "E31: [Título Episodio 31]",
+            "urlDrive": "URL_DRIVE_T03E31"
+          },
+          {
+            "tituloEpisodio": "E32: [Título Episodio 32]",
+            "urlDrive": "URL_DRIVE_T03E32"
+          },
+          {
+            "tituloEpisodio": "E33: [Título Episodio 33]",
+            "urlDrive": "URL_DRIVE_T03E33"
+          },
+          {
+            "tituloEpisodio": "E34: [Título Episodio 34]",
+            "urlDrive": "URL_DRIVE_T03E34"
+          },
+          {
+            "tituloEpisodio": "E35: [Título Episodio 35]",
+            "urlDrive": "URL_DRIVE_T03E35"
+          }
+        ]
+      }
     ]
   }
 ]
