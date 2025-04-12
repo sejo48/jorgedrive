@@ -1,1 +1,21 @@
-[{"prueba": "hola"}]
+[
+  {
+    "tituloSerie": "La Isla de Gilligan",
+    "descripcion": "1964 ‧ Comedia de situación ‧ 1 temporadas",
+    "imagen": "https://images.justwatch.com/poster/237948613/s718/la-isla-de-gilligan.jpg",
+    "episodios": [
+      { "tituloEpisodio": "T01 E01: El Comienzo", "urlDrive": "https://drive.google.com/file/d/1GFRnkQF2FnMviODA4c-jHvKbNlU9YnGk/preview" },
+      { "tituloEpisodio": "T01 E02: La Aventura", "urlDrive": "https://drive.google.com/file/d/17mHPa_2BS4rMZUAC5-_YHHYcCejX8C3F/preview" },
+      { "tituloEpisodio": "T01 E03: El Descubrimiento", "urlDrive": "https://drive.google.com/file/d/1VUPjHPbvF0T8FoP_iVt3h6mRM_ABTjwX/preview" }
+    ]
+  },
+  {
+    "tituloSerie": "Nombre de la Serie 2",
+    "descripcion": "Otra serie interesante.",
+    "imagen": "URL_IMAGEN_PORTADA_SERIE_2",
+    "episodios": [
+      { "tituloEpisodio": "Capítulo 1", "urlDrive": "URL_DRIVE_S02E01_PREVIEW" },
+      { "tituloEpisodio": "Capítulo 2", "urlDrive": "URL_DRIVE_S02E02_PREVIEW" }
+    ]
+  }
+]
