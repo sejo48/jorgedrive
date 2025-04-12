@@ -1,60 +1,21 @@
 [
   {
     "tituloSerie": "La Isla de Gilligan",
-    "descripcion": "1964 ‧ Comedia de situación ‧ 3 temporadas ‧ 36 episodios",
+    "descripcion": "1964 ‧ Comedia de situación ‧ 1 temporadas",
     "imagen": "https://images.justwatch.com/poster/237948613/s718/la-isla-de-gilligan.jpg",
-    "temporadas": [
-      {
-        "numeroTemporada": 1,
-        "episodios": [
-          { "tituloEpisodio": "T01 E01: [Título del Episodio 1]", "urlDrive": "URL_DRIVE_T01E01" },
-          { "tituloEpisodio": "T01 E02: [Título del Episodio 2]", "urlDrive": "URL_DRIVE_T01E02" },
-          { "tituloEpisodio": "T01 E03: [Título del Episodio 3]", "urlDrive": "URL_DRIVE_T01E03" },
-          { "tituloEpisodio": "T01 E04: [Título del Episodio 4]", "urlDrive": "URL_DRIVE_T01E04" },
-          { "tituloEpisodio": "T01 E05: [Título del Episodio 5]", "urlDrive": "URL_DRIVE_T01E05" },
-          { "tituloEpisodio": "T01 E06: [Título del Episodio 6]", "urlDrive": "URL_DRIVE_T01E06" },
-          { "tituloEpisodio": "T01 E07: [Título del Episodio 7]", "urlDrive": "URL_DRIVE_T01E07" },
-          { "tituloEpisodio": "T01 E08: [Título del Episodio 8]", "urlDrive": "URL_DRIVE_T01E08" },
-          { "tituloEpisodio": "T01 E09: [Título del Episodio 9]", "urlDrive": "URL_DRIVE_T01E09" },
-          { "tituloEpisodio": "T01 E10: [Título del Episodio 10]", "urlDrive": "URL_DRIVE_T01E10" },
-          { "tituloEpisodio": "T01 E11: [Título del Episodio 11]", "urlDrive": "URL_DRIVE_T01E11" },
-          { "tituloEpisodio": "T01 E12: [Título del Episodio 12]", "urlDrive": "URL_DRIVE_T01E12" }
-        ]
-      },
-      {
-        "numeroTemporada": 2,
-        "episodios": [
-          { "tituloEpisodio": "T02 E01: [Título del Episodio 1]", "urlDrive": "URL_DRIVE_T02E01" },
-          { "tituloEpisodio": "T02 E02: [Título del Episodio 2]", "urlDrive": "URL_DRIVE_T02E02" },
-          { "tituloEpisodio": "T02 E03: [Título del Episodio 3]", "urlDrive": "URL_DRIVE_T02E03" },
-          { "tituloEpisodio": "T02 E04: [Título del Episodio 4]", "urlDrive": "URL_DRIVE_T02E04" },
-          { "tituloEpisodio": "T02 E05: [Título del Episodio 5]", "urlDrive": "URL_DRIVE_T02E05" },
-          { "tituloEpisodio": "T02 E06: [Título del Episodio 6]", "urlDrive": "URL_DRIVE_T02E06" },
-          { "tituloEpisodio": "T02 E07: [Título del Episodio 7]", "urlDrive": "URL_DRIVE_T02E07" },
-          { "tituloEpisodio": "T02 E08: [Título del Episodio 8]", "urlDrive": "URL_DRIVE_T02E08" },
-          { "tituloEpisodio": "T02 E09: [Título del Episodio 9]", "urlDrive": "URL_DRIVE_T02E09" },
-          { "tituloEpisodio": "T02 E10: [Título del Episodio 10]", "urlDrive": "URL_DRIVE_T02E10" },
-          { "tituloEpisodio": "T02 E11: [Título del Episodio 11]", "urlDrive": "URL_DRIVE_T02E11" },
-          { "tituloEpisodio": "T02 E12: [Título del Episodio 12]", "urlDrive": "URL_DRIVE_T02E12" }
-        ]
-      },
-      {
-        "numeroTemporada": 3,
-        "episodios": [
-          { "tituloEpisodio": "T03 E01: [Título del Episodio 1]", "urlDrive": "URL_DRIVE_T03E01" },
-          { "tituloEpisodio": "T03 E02: [Título del Episodio 2]", "urlDrive": "URL_DRIVE_T03E02" },
-          { "tituloEpisodio": "T03 E03: [Título del Episodio 3]", "urlDrive": "URL_DRIVE_T03E03" },
-          { "tituloEpisodio": "T03 E04: [Título del Episodio 4]", "urlDrive": "URL_DRIVE_T03E04" },
-          { "tituloEpisodio": "T03 E05: [Título del Episodio 5]", "urlDrive": "URL_DRIVE_T03E05" },
-          { "tituloEpisodio": "T03 E06: [Título del Episodio 6]", "urlDrive": "URL_DRIVE_T03E06" },
-          { "tituloEpisodio": "T03 E07: [Título del Episodio 7]", "urlDrive": "URL_DRIVE_T03E07" },
-          { "tituloEpisodio": "T03 E08: [Título del Episodio 8]", "urlDrive": "URL_DRIVE_T03E08" },
-          { "tituloEpisodio": "T03 E09: [Título del Episodio 9]", "urlDrive": "URL_DRIVE_T03E09" },
-          { "tituloEpisodio": "T03 E10: [Título del Episodio 10]", "urlDrive": "URL_DRIVE_T03E10" },
-          { "tituloEpisodio": "T03 E11: [Título del Episodio 11]", "urlDrive": "URL_DRIVE_T03E11" },
-          { "tituloEpisodio": "T03 E12: [Título del Episodio 12]", "urlDrive": "URL_DRIVE_T03E12" }
-        ]
-      }
+    "episodios": [
+      { "tituloEpisodio": "T01 E01: El Comienzo", "urlDrive": "https://drive.google.com/file/d/1GFRnkQF2FnMviODA4c-jHvKbNlU9YnGk/preview" },
+      { "tituloEpisodio": "T01 E02: La Aventura", "urlDrive": "https://drive.google.com/file/d/17mHPa_2BS4rMZUAC5-_YHHYcCejX8C3F/preview" },
+      { "tituloEpisodio": "T01 E03: El Descubrimiento", "urlDrive": "https://drive.google.com/file/d/1VUPjHPbvF0T8FoP_iVt3h6mRM_ABTjwX/preview" }
+    ]
+  },
+  {
+    "tituloSerie": "Nombre de la Serie 2",
+    "descripcion": "Otra serie interesante.",
+    "imagen": "URL_IMAGEN_PORTADA_SERIE_2",
+    "episodios": [
+      { "tituloEpisodio": "Capítulo 1", "urlDrive": "URL_DRIVE_S02E01_PREVIEW" },
+      { "tituloEpisodio": "Capítulo 2", "urlDrive": "URL_DRIVE_S02E02_PREVIEW" }
     ]
   }
 ]
