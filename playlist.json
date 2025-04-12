@@ -8,7 +8,7 @@
         "numeroTemporada": 1,
         "episodios": [
           {
-            "Dos en una balsa": "E01: [Título Episodio 1]",
+            "tituloEpisodio": "E01: [Dos en una balsa]",
             "urlDrive": "https://drive.google.com/file/d/1GFRnkQF2FnMviODA4c-jHvKbNlU9YnGk/preview"
           },
           {
