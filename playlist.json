@@ -445,26 +445,5 @@
       }
     ],
     "originalIndex": 0
-  },
-  {
-    "tituloSerie": "La Marina de Hale's",
-    "descripcion": "serie estadounidense emitida originalmente por la ABC en 1962",
-    "imagen": "https://2.bp.blogspot.com/-76ojGd9vB9A/X0FF5AXqXFI/AAAAAAAAP-Y/D4a9zhXBNsg2S1p_HLAmkic8-9N0SqvYwCK4BGAYYCw/s1600/La%2Bmarina%2Bde%2BMc%2BHaley.JPG",
-    "temporadas": [
-      {
-        "numeroTemporada": 1,
-        "episodios": [
-          {
-            "tituloEpisodio": "Episodio n.º 1",
-            "urlDrive": "https://ok.ru/videoembed/1917896362528"
-          }
-        ]
-      },
-      {
-        "numeroTemporada": 2,
-        "episodios": []
-      }
-    ],
-    "originalIndex": 1
   }
 ]
