@@ -1,12 +1,12 @@
 {
   "tituloSerie": "La Isla de Gilligan",
   "descripcion": "1964 ‧ Comedia de situación ‧ 3 temporadas ‧ 36 episodios",
-  "imagen": "https://images.justwatch.com/poster/237948613/s718/la-isla-de-gilligan.jpg", // Puedes cambiar esta URL si tienes otra imagen
+  "imagen": "https://images.justwatch.com/poster/237948613/s718/la-isla-de-gilligan.jpg",
   "temporadas": [
     {
       "numeroTemporada": 1,
       "episodios": [
-        { "tituloEpisodio": "T01 E01: [Como ser un heroe]", "urlDrive": ""https://drive.google.com/file/d/1n4Fh6gLsKI9ew_wPf8ms9ljWrrEv6WHs/preview"" },
+        { "tituloEpisodio": "T01 E01: [Título del Episodio 1]", "urlDrive": "URL_DRIVE_T01E01" },
         { "tituloEpisodio": "T01 E02: [Título del Episodio 2]", "urlDrive": "URL_DRIVE_T01E02" },
         { "tituloEpisodio": "T01 E03: [Título del Episodio 3]", "urlDrive": "URL_DRIVE_T01E03" },
         { "tituloEpisodio": "T01 E04: [Título del Episodio 4]", "urlDrive": "URL_DRIVE_T01E04" },
@@ -18,7 +18,6 @@
         { "tituloEpisodio": "T01 E10: [Título del Episodio 10]", "urlDrive": "URL_DRIVE_T01E10" },
         { "tituloEpisodio": "T01 E11: [Título del Episodio 11]", "urlDrive": "URL_DRIVE_T01E11" },
         { "tituloEpisodio": "T01 E12: [Título del Episodio 12]", "urlDrive": "URL_DRIVE_T01E12" }
-        // Si la temporada 1 tiene más o menos episodios, ajusta esta lista
       ]
     },
     {
@@ -36,7 +35,6 @@
         { "tituloEpisodio": "T02 E10: [Título del Episodio 10]", "urlDrive": "URL_DRIVE_T02E10" },
         { "tituloEpisodio": "T02 E11: [Título del Episodio 11]", "urlDrive": "URL_DRIVE_T02E11" },
         { "tituloEpisodio": "T02 E12: [Título del Episodio 12]", "urlDrive": "URL_DRIVE_T02E12" }
-         // Si la temporada 2 tiene más o menos episodios, ajusta esta lista
       ]
     },
     {
@@ -54,7 +52,6 @@
         { "tituloEpisodio": "T03 E10: [Título del Episodio 10]", "urlDrive": "URL_DRIVE_T03E10" },
         { "tituloEpisodio": "T03 E11: [Título del Episodio 11]", "urlDrive": "URL_DRIVE_T03E11" },
         { "tituloEpisodio": "T03 E12: [Título del Episodio 12]", "urlDrive": "URL_DRIVE_T03E12" }
-         // Si la temporada 3 tiene más o menos episodios, ajusta esta lista
       ]
     }
   ]
