@@ -443,7 +443,8 @@
           }
         ]
       }
-    ]
+    ],
+    "originalIndex": 0
   },
   {
     "tituloSerie": "La Marina de Hale's",
@@ -452,13 +453,13 @@
     "temporadas": [
       {
         "numeroTemporada": 1,
-        "episodios": [
-          {
-            "tituloEpisodio": "Episodio n.º 1",
-            "urlDrive": ""
-          }
-        ]
+        "episodios": []
+      },
+      {
+        "numeroTemporada": 2,
+        "episodios": []
       }
-    ]
+    ],
+    "originalIndex": 1
   }
 ]
