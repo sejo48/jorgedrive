@@ -621,5 +621,21 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "Encanto",
+    "descripcion": "Encanto» relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas",
+    "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/21/09/29/16/57/5761354.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Encanto- play",
+            "urlDrive": "https://drive.google.com/file/d/1osAvAyvSXZIp3XTC3Jtuuan4JfslnfB0/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
