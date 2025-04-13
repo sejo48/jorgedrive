@@ -447,10 +447,20 @@
     "originalIndex": 0
   },
   {
-    "tituloSerie": "Daniel Boone",
+    "tituloSerie": "Peliculas",
     "descripcion": "Daniel Boone (1964), de Earl Bellamy",
-    "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1964/9/w1280/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg",
-    "temporadas": []
+    "imagen": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff459c11-2526-48bd-bcc9-02394f806966_686x1083.png",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Duro de Matar: Un buen día para morir",
+            "urlDrive": "https://be2719.rcr22.ams01.cdn255.com/hls2/02/05792/d0bdlfmh0r4z_x/master.m3u8?t=l6HhfI2H7LYvJO_W_YrmNCDGi6VByMvsHeDUnMG-GQw&s=1744505018&e=10800&f=31172501&srv=53&asn=266853&sp=5500&p="
+          }
+        ]
+      }
+    ]
   },
   {
     "tituloSerie": "Viaje al Fondo del Mar",
