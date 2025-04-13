@@ -466,7 +466,53 @@
     "tituloSerie": "Viaje al Fondo del Mar",
     "descripcion": "",
     "imagen": "https://m.media-amazon.com/images/M/MV5BODhhNzVlMjMtMmZkZC00ZDhiLWIzN2EtM2NmZGRiMmUxMDI2XkEyXkFqcGc@._V1_.jpg",
-    "temporadas": []
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1dHJe9S8ghlORRfeUxF3dxlTbcskGS_fz/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/1octWi3UJJph4CDjK6E7NhJ85zjHAGtFw/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1RXaHfcQaAB9v0O7tbE6o1Tryr7DGjBA-/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1u5MhRB0oYJLHuhBLvklbs4qw-T2THaNi/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 5",
+            "urlDrive": "https://drive.google.com/file/d/1dL9h1e9taU-qFFSvXc-vRvsO8Khxw3gV/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/1DtOJ4DqxY3YbkwMfjRQrscfAxIRy07iE/preview\""
+          },
+          {
+            "tituloEpisodio": "Episodio 7",
+            "urlDrive": "https://drive.google.com/file/d/1IzBRzQhZX2aE0is9WpXlDbwsZAb9N2gA/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 8",
+            "urlDrive": "https://drive.google.com/file/d/1cA5AKQHgz36fvGw0OaVvrO7J7U3wtsyg/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 9",
+            "urlDrive": "https://drive.google.com/file/d/1yhXYatyJEIskksHlI6Smx2FrkZPhDbc2/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 10",
+            "urlDrive": "https://drive.google.com/file/d/1Do1S4EGIs74hsACHDPVzR5Zb0v0ImgZU/preview\" width=\"640"
+          }
+        ]
+      }
+    ]
   },
   {
     "tituloSerie": "La marina de mackey",
