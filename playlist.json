@@ -541,5 +541,85 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "El Show de Abbott y Costello",
+    "descripcion": "na de las más famosas y quizá la mejor de las apariciones cinematográficas de la popular pareja de cómicos americanos Bud Abbott y Lou Costello.",
+    "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1952/12/w300/vorrWqNL7alMqScKhrNLdZZcMOt.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Abbott and Costello 01",
+            "urlDrive": "https://drive.google.com/file/d/1NoAwW70coFGM1gIEgD_tR-sv7OdQTfXa/preview"
+          },
+          {
+            "tituloEpisodio": "Abbott and Costello 02",
+            "urlDrive": "https://drive.google.com/file/d/1_TF2G6NxcaEUNd7v3I7J6GF1dGovEZoF/preview"
+          },
+          {
+            "tituloEpisodio": "Abbott and Costello 03",
+            "urlDrive": "https://drive.google.com/file/d/1-4NVc3af2qgTq-4DiimlsjcNPxDO9Osr/preview"
+          },
+          {
+            "tituloEpisodio": "Abbott and Costello 04",
+            "urlDrive": "https://drive.google.com/file/d/1KYDMUCKk86G6AXRPJ4bxZUY9BtuFQM7U/preview"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tituloSerie": "Daniel Boone",
+    "descripcion": "as aventuras del explorador Daniel Boone, mediador entre colonos e indios",
+    "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1964/9/w1280/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Daniel Boone   T1 E01 Kentucky",
+            "urlDrive": "https://drive.google.com/file/d/1NI2XbnrEMAiWeZWeQ3uFjOan6X5P0tQV/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone   T1  E02 Tekawitha Mcleod",
+            "urlDrive": "https://drive.google.com/file/d/1sIiem4Cj-uY-5GR5hYLHnbwOOj803kwh/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone 1x03 Un Corto camino hacia Salem",
+            "urlDrive": "https://drive.google.com/file/d/10DI_w9_ZHZuXJ7_6KSJzJGCWfz2tebi8/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone   1x05 Pompeya",
+            "urlDrive": "https://drive.google.com/file/d/1nEmJj2DYbEy96gABbSK2W2Han28Xk2uf/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone   1x06 La Eleccion",
+            "urlDrive": "https://drive.google.com/file/d/1T8CPC-g9CJi1eoXjkOmo0VytHXSFkrnC/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone   1x04 Lac Duquesne",
+            "urlDrive": "https://drive.google.com/file/d/1uGZUlcZv3y24pc7MKk1WtwtMnoxbgdGy/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone   1x08 Mi hermano Keeper",
+            "urlDrive": "https://drive.google.com/file/d/1TWaDKtj9ig4WeyIq9-dhKMp-GqjFkWCA/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone   1x10 El Sonido de las alas",
+            "urlDrive": "https://drive.google.com/file/d/1CbDC3YbBRfI3UQPAFLC0hvulZ4EsUCXj/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone   1x07 La familia Fluellen",
+            "urlDrive": "https://drive.google.com/file/d/1nY9RWvB4fndTDi56btHMNjooBLb3jLtj/preview"
+          },
+          {
+            "tituloEpisodio": "Daniel Boone   1x11 Las hermanas OHannrahan",
+            "urlDrive": "https://drive.google.com/file/d/1mJUtiSz78wumEPBwqhyVPCk55EWHtQH5/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
