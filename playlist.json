@@ -642,6 +642,72 @@
     "tituloSerie": "Patrulla motorizada",
     "descripcion": "Patrulla motorizada fue una serie de televisión estadounidense creada por Rick Rosner. Conocida en inglés como \"CHiPs\"",
     "imagen": "https://pbs.twimg.com/media/FRrmIUZXEAUqV9-.jpg",
-    "temporadas": []
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1l1bDOtRu0c2Es1H89TyiGiiSx8zCsdSV/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/1ssIY3QmeElOzlTPWZD8a13d5dKMRXDED/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1WDTvtsi9ZC-JSKefIUUenshOCAhLa1oI/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1D9m3nxteFSnXVPBjdktev6g0dLBddghZ/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 5",
+            "urlDrive": "https://drive.google.com/file/d/1ZexCnpH8jXS7BIW27rCo2PNLuqdkm_60/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/1AcMUaol_n-p85Zn9PFI9TjXs8O6l51jn/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 7",
+            "urlDrive": "https://drive.google.com/file/d/1e0ueSd9PJJxPA5y8vyHiXAI68UWXSoBg/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 8",
+            "urlDrive": "https://drive.google.com/file/d/1fdYqyaFtc7rbJKLyISyZbrdsS6qhhIXk/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 9",
+            "urlDrive": "https://drive.google.com/file/d/1vle3OQOwTefqgGVEmxI3RLI_5Zzz5aDN/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 10",
+            "urlDrive": "https://drive.google.com/file/d/130GNXcAP6FG0RBk1gpQKSy2AwPQS_giK/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 11",
+            "urlDrive": "https://drive.google.com/file/d/1JSvUrPOlYToaBIoRhAnh5UIHjFaVkbhM/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 12",
+            "urlDrive": "https://drive.google.com/file/d/18n0bUbBs7r1zfpsRMObsnOemTOtngTYj/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 13",
+            "urlDrive": "https://drive.google.com/file/d/184qPaePr6kMMNyhXQHv4tNgFZvUvkIp_/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 14",
+            "urlDrive": "https://drive.google.com/file/d/1Sw8wpOBYK8tQX2lSvxoZtGJ-W2G8SSPe/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 15",
+            "urlDrive": "https://drive.google.com/file/d/1EDF0D4BmQ2d2ftF3FGNcDSnt4kXI8hgx/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
