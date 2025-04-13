@@ -467,5 +467,21 @@
     "descripcion": "",
     "imagen": "https://m.media-amazon.com/images/M/MV5BODhhNzVlMjMtMmZkZC00ZDhiLWIzN2EtM2NmZGRiMmUxMDI2XkEyXkFqcGc@._V1_.jpg",
     "temporadas": []
+  },
+  {
+    "tituloSerie": "La marina de mackey",
+    "descripcion": "La marina de McHale es una serie estadounidense emitida originalmente por la ABC en 1962,",
+    "imagen": "https://media.themoviedb.org/t/p/w500/fTbprFBTt4lZb9CQpHZ4FR4BAHk.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/120gfQhevwvPG7zrH0SWxqwCZC3fhZCHl/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
