@@ -447,16 +447,20 @@
     "originalIndex": 0
   },
   {
-    "tituloSerie": "Peliculas",
-    "descripcion": "Daniel Boone (1964), de Earl Bellamy",
-    "imagen": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff459c11-2526-48bd-bcc9-02394f806966_686x1083.png",
+    "tituloSerie": "minecraft película",
+    "descripcion": "\"Una película de Minecraft\"",
+    "imagen": "https://preview.redd.it/some-more-posters-for-a-minecraft-movie-v0-d1slryxvlvle1.png?width=640&crop=smart&auto=webp&s=0f331faeddf7bf281f6aaccc8a66096bdc168966",
     "temporadas": [
       {
         "numeroTemporada": 1,
         "episodios": [
           {
-            "tituloEpisodio": "Duro de Matar: Un buen día para morir",
-            "urlDrive": "https://drive.google.com/file/d/1YhVTiEVovyHxs_aLFr8a-ffD76cWgJs7/preview"
+            "tituloEpisodio": "Minecraft Película inglés",
+            "urlDrive": "https://drive.google.com/file/d/1i5QFodXejARRYy2hExZZQ2hQS_atTaX0/view?usp=drive_link"
+          },
+          {
+            "tituloEpisodio": "\"Una película de Minecraft\"",
+            "urlDrive": "https://drive.google.com/file/d/1i5QFodXejARRYy2hExZZQ2hQS_atTaX0/view?usp=drive_link"
           }
         ]
       }
