@@ -456,11 +456,7 @@
         "episodios": [
           {
             "tituloEpisodio": "Minecraft Película inglés",
-            "urlDrive": "https://drive.google.com/file/d/1i5QFodXejARRYy2hExZZQ2hQS_atTaX0/view?usp=drive_link"
-          },
-          {
-            "tituloEpisodio": "\"Una película de Minecraft\"",
-            "urlDrive": "https://drive.google.com/file/d/1i5QFodXejARRYy2hExZZQ2hQS_atTaX0/view?usp=drive_link"
+            "urlDrive": "https://drive.google.com/file/d/1i5QFodXejARRYy2hExZZQ2hQS_atTaX0/preview"
           }
         ]
       }
