@@ -84,7 +84,7 @@
             "urlDrive": "https://drive.google.com/file/d/1E7WGTlGk8xLxG2FzkpdIDEMX5i4HuTR6/preview"
           },
           {
-            "tituloEpisodio": "E20:  El conquistador de Hawái",
+            "tituloEpisodio": "E20: El conquistador de Hawái",
             "urlDrive": "https://drive.google.com/file/d/1EG37gJ-bwQ6D9lsz8JhlGlA-R8bNtIrS/preview"
           },
           {
@@ -128,7 +128,7 @@
             "urlDrive": "https://drive.google.com/file/d/1O4BH-vd7Cyy6hvmZqAoCd19E5HNUuftJ/preview"
           },
           {
-            "tituloEpisodio": "E31:  no puedes ir a casa",
+            "tituloEpisodio": "E31: No puedes ir a casa",
             "urlDrive": "https://drive.google.com/file/d/1ByleWlSgVwN9b4s_5MX6EIPzRmG0KakH/preview"
           },
           {
@@ -148,7 +148,7 @@
             "urlDrive": "https://drive.google.com/file/d/1n0AllEKWkVDuMYUM9mgUl5EDL3jYYK7e/preview"
           },
           {
-            "tituloEpisodio": "nariz con otro nombre",
+            "tituloEpisodio": "E36: Nariz con otro nombre",
             "urlDrive": "https://drive.google.com/file/d/1lP29GlCihY9PloNIQRb7QDOQavPcM3g7/preview"
           }
         ]
@@ -157,15 +157,15 @@
         "numeroTemporada": 2,
         "episodios": [
           {
-            "tituloEpisodio": "E01:  Episodio 1",
+            "tituloEpisodio": "E01: Episodio 1",
             "urlDrive": "https://drive.google.com/file/d/1wNncoyuo2WUSS-PTaoFwTU3T6qMdtEPK/preview"
           },
           {
-            "tituloEpisodio": "E02:  Episodio 2",
+            "tituloEpisodio": "E02: Episodio 2",
             "urlDrive": "https://drive.google.com/file/d/1KpAgYY-MgbVxwK_YjVEPLhvl3BaXty4m/preview"
           },
           {
-            "tituloEpisodio": "E03:  Episodio 3",
+            "tituloEpisodio": "E03: Episodio 3",
             "urlDrive": "https://drive.google.com/file/d/1mw5g3Yszi2IZ63kzqlZ59nn8HjIvBGhE/preview"
           },
           {
@@ -197,7 +197,7 @@
             "urlDrive": "https://drive.google.com/file/d/1_e-2vxepSGDquaHFmQYggbiJWUtCCU_F/preview"
           },
           {
-            "tituloEpisodio": "E11:  Episodio 11",
+            "tituloEpisodio": "E11: Episodio 11",
             "urlDrive": "https://drive.google.com/file/d/1cJV4LGhIQz3DIesSHCf8-VwocmfckZIT/preview"
           },
           {
@@ -246,7 +246,7 @@
           },
           {
             "tituloEpisodio": "E23: Episodio 23",
-            "urlDrive": "https://drive.google.com/file/d/1M2fnY5_7VK40q4MOKxGNnXZtJTB6FsqD/view#:~:text=https%3A//drive.google.com/file/d/1M2fnY5_7VK40q4MOKxGNnXZtJTB6FsqD/preview%22%20width%3D%22640%22%20height%3D%22480%22%20allow%3D%22autoplay"
+            "urlDrive": "https://drive.google.com/file/d/1M2fnY5_7VK40q4MOKxGNnXZtJTB6FsqD/preview"
           },
           {
             "tituloEpisodio": "E24: Episodio 24",
@@ -382,7 +382,7 @@
             "urlDrive": "https://drive.google.com/file/d/1qjRvfWfdnxda5ChKqa4qmuXjzYSFapG3/preview"
           },
           {
-            "tituloEpisodio": "E21:  Episodio 21",
+            "tituloEpisodio": "E21: Episodio 21",
             "urlDrive": "https://drive.google.com/file/d/1_ipiKRRcqswk0uas8Gc92KvZ2WYIlj9x/preview"
           },
           {
@@ -398,7 +398,7 @@
             "urlDrive": "https://drive.google.com/file/d/1q6LZrkO3wCQQDA5pN-g8P3uRg_vA5kju/preview"
           },
           {
-            "tituloEpisodio": "E25:  Episodio 25",
+            "tituloEpisodio": "E25: Episodio 25",
             "urlDrive": "https://drive.google.com/file/d/1yxr5mgn3-NR0XxIBcsfiORT3o-Jp-Sgu/preview"
           },
           {
@@ -420,27 +420,6 @@
           {
             "tituloEpisodio": "E30: Episodio 30",
             "urlDrive": "https://drive.google.com/file/d/1TxfkgNZ3lCgNyQDu0gBW3cL6WFB6R4t4/preview"
-          }
-        ]
-      }
-    ],
-    "originalIndex": 0
-  },
-  {
-    "tituloSerie": "Minecraft película",
-    "descripcion": "\"Una película de Minecraft\"",
-    "imagen": "https://preview.redd.it/some-more-posters-for-a-minecraft-movie-v0-d1slryxvlvle1.png?width=640&crop=smart&auto=webp&s=0f331faeddf7bf281f6aaccc8a66096bdc168966",
-    "temporadas": [
-      {
-        "numeroTemporada": 1,
-        "episodios": [
-          {
-            "tituloEpisodio": "Minecraft Película inglés",
-            "urlDrive": "https://drive.google.com/file/d/1i5QFodXejARRYy2hExZZQ2hQS_atTaX0/preview"
-          },
-          {
-            "tituloEpisodio": "Minecraft Película español",
-            "urlDrive": "https://drive.google.com/file/d/12IThUvooNjZSLNItRkHtpLUBgC5wUiBR/preview"
           }
         ]
       }
@@ -476,7 +455,7 @@
           },
           {
             "tituloEpisodio": "Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/1DtOJ4DqxY3YbkwMfjRQrscfAxIRy07iE/preview\""
+            "urlDrive": "https://drive.google.com/file/d/1DtOJ4DqxY3YbkwMfjRQrscfAxIRy07iE/preview"
           },
           {
             "tituloEpisodio": "Episodio 7",
@@ -492,7 +471,7 @@
           },
           {
             "tituloEpisodio": "Episodio 10",
-            "urlDrive": "https://drive.google.com/file/d/1Do1S4EGIs74hsACHDPVzR5Zb0v0ImgZU/preview\" width=\"640"
+            "urlDrive": "https://drive.google.com/file/d/1Do1S4EGIs74hsACHDPVzR5Zb0v0ImgZU/preview"
           }
         ]
       }
@@ -579,11 +558,11 @@
         "numeroTemporada": 1,
         "episodios": [
           {
-            "tituloEpisodio": "Daniel Boone   T1 E01 Kentucky",
+            "tituloEpisodio": "Daniel Boone T1 E01 Kentucky",
             "urlDrive": "https://drive.google.com/file/d/1NI2XbnrEMAiWeZWeQ3uFjOan6X5P0tQV/preview"
           },
           {
-            "tituloEpisodio": "Daniel Boone   T1  E02 Tekawitha Mcleod",
+            "tituloEpisodio": "Daniel Boone T1 E02 Tekawitha Mcleod",
             "urlDrive": "https://drive.google.com/file/d/1sIiem4Cj-uY-5GR5hYLHnbwOOj803kwh/preview"
           },
           {
@@ -591,48 +570,32 @@
             "urlDrive": "https://drive.google.com/file/d/10DI_w9_ZHZuXJ7_6KSJzJGCWfz2tebi8/preview"
           },
           {
-            "tituloEpisodio": "Daniel Boone   1x05 Pompeya",
+            "tituloEpisodio": "Daniel Boone 1x05 Pompeya",
             "urlDrive": "https://drive.google.com/file/d/1nEmJj2DYbEy96gABbSK2W2Han28Xk2uf/preview"
           },
           {
-            "tituloEpisodio": "Daniel Boone   1x06 La Eleccion",
+            "tituloEpisodio": "Daniel Boone 1x06 La Eleccion",
             "urlDrive": "https://drive.google.com/file/d/1T8CPC-g9CJi1eoXjkOmo0VytHXSFkrnC/preview"
           },
           {
-            "tituloEpisodio": "Daniel Boone   1x04 Lac Duquesne",
+            "tituloEpisodio": "Daniel Boone 1x04 Lac Duquesne",
             "urlDrive": "https://drive.google.com/file/d/1uGZUlcZv3y24pc7MKk1WtwtMnoxbgdGy/preview"
           },
           {
-            "tituloEpisodio": "Daniel Boone   1x08 Mi hermano Keeper",
+            "tituloEpisodio": "Daniel Boone 1x08 Mi hermano Keeper",
             "urlDrive": "https://drive.google.com/file/d/1TWaDKtj9ig4WeyIq9-dhKMp-GqjFkWCA/preview"
           },
           {
-            "tituloEpisodio": "Daniel Boone   1x10 El Sonido de las alas",
+            "tituloEpisodio": "Daniel Boone 1x10 El Sonido de las alas",
             "urlDrive": "https://drive.google.com/file/d/1CbDC3YbBRfI3UQPAFLC0hvulZ4EsUCXj/preview"
           },
           {
-            "tituloEpisodio": "Daniel Boone   1x07 La familia Fluellen",
+            "tituloEpisodio": "Daniel Boone 1x07 La familia Fluellen",
             "urlDrive": "https://drive.google.com/file/d/1nY9RWvB4fndTDi56btHMNjooBLb3jLtj/preview"
           },
           {
-            "tituloEpisodio": "Daniel Boone   1x11 Las hermanas OHannrahan",
+            "tituloEpisodio": "Daniel Boone 1x11 Las hermanas OHannrahan",
             "urlDrive": "https://drive.google.com/file/d/1mJUtiSz78wumEPBwqhyVPCk55EWHtQH5/preview"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "tituloSerie": "Encanto",
-    "descripcion": "Encanto» relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas",
-    "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/21/09/29/16/57/5761354.jpg",
-    "temporadas": [
-      {
-        "numeroTemporada": 1,
-        "episodios": [
-          {
-            "tituloEpisodio": "Encanto- play",
-            "urlDrive": "https://drive.google.com/file/d/1osAvAyvSXZIp3XTC3Jtuuan4JfslnfB0/preview"
           }
         ]
       }
