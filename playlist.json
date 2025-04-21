@@ -760,5 +760,93 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "Kung Fu (Serie de TV 1972–1975)",
+    "descripcion": "Las aventuras de un monje Shaolin que recorre el oeste de Estados Unidos armado tan solo con sus mortales habilidades en Kung Fu.",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BMThjZTE3YWYtZmVhZi00Njg3LWEyNGMtNTQ3MmFjYWJlMzI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1JL92WaePc2l7qnkBMy4q37CK2ilY1J-r/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/1CqXVqjTOdPC3BAJnJNc8LjfaAlI1_EJy/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1sp3xxslOBveBgZX7G5mEDuMrAhfKbRM4/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1s5_T9yRbeCJr5k0q0aNsmEU7-_SpTaB7/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/12emqO9DhtVharVZipeaWGP6uopA2jS0l/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/1dGBAA7dShydnPjxZz8MQTHDGkXaatYRT/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 7",
+            "urlDrive": "https://drive.google.com/file/d/1FEsLM-CA3if8hqIH1PEztmePzBJz2ZrR/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 8",
+            "urlDrive": "https://drive.google.com/file/d/1LWwauAOfiPeF-KC-5vFLRdpggqv6LoS7/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 9",
+            "urlDrive": "https://drive.google.com/file/d/1VgENoaLNm9F90bMEpWgLQH1uvFaRpm6C/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 10",
+            "urlDrive": "https://drive.google.com/file/d/1urkClQywkTVyYhQ8PMid8AmTDiJCOCpX/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 11",
+            "urlDrive": "https://drive.google.com/file/d/1P0slRPgWy6PjlIwkDxHRB5hqY41qxAtj/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 12",
+            "urlDrive": "https://drive.google.com/file/d/1lpNgvcibdRs-vUW2g0Vg0wbgqIDSQByB/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 13",
+            "urlDrive": "https://drive.google.com/file/d/12LtTaK1gImtrpte2eA1rqXhRSLAaxUQP/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 14",
+            "urlDrive": "https://drive.google.com/file/d/1tWFgRa2Gorm7IHz6clV59oTzqnmSUSd7/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 15",
+            "urlDrive": "https://drive.google.com/file/d/1mw8RGmXSghrYa9vHEYSXhIPfvkTHqkcL/preview"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tituloSerie": "STARSKY & HUTCH",
+    "descripcion": "Starsky y Hutch llegaron a nuestros televisores en 1975, llevando toda la acción y emoción de la gran pantalla a la pequeña, en lo que se convertiría en la serie por excelencia de la época",
+    "imagen": "https://images.justwatch.com/poster/710456/s332/temporada-4",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1vN1uWskUznVCFMrjDau8dA0-4skbbsWO/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
