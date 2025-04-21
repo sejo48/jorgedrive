@@ -848,5 +848,21 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "La novicia voladora",
+    "descripcion": "La Monja Voladora (en inglés y original: The Flying Nun) fue una comedia estadounidense sobre una comunidad de monjas que incluía una que podía volar cuando el viento atrapaba su corneta . Fue producido por Screen Gems para ABC[",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BMzg2ODM2NjA0NF5BMl5BanBnXkFtZTcwMzIyODMzMQ@@._V1_.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1qUl5c0P9Y1eWSRCnTM4fJzM94in_bJrL/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
