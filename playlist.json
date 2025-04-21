@@ -848,5 +848,16 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "Batman (1943)",
+    "descripcion": "Batman fue una serie de 15 capítulos estrenada en 1943 por Columbia Pictures. La serie estaba protagonizada por Lewis Wilson como Batman y Douglas Croft como Robin. J.",
+    "imagen": "https://artworks.thetvdb.com/banners/series/93341/posters/5e8f6a7b7c147.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": []
+      }
+    ]
   }
 ]
