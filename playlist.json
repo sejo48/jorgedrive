@@ -1,868 +1,1292 @@
 [
   {
-    "tituloSerie": "La Isla de Gilligan",
-    "descripcion": "1964 ‧ Comedia de situación ‧ 3 Temporadas",
-    "imagen": "https://github.com/sejo48/imajenes/blob/main/19923_w250.jpg?raw=true",
-    "temporadas": [
+    "id": "b04fd44e-476d-4a9b-a867-313cd161af99",
+    "title": "La Isla de Gilligan",
+    "description": "1964 ‧ Comedia de situación ‧ 3 Temporadas",
+    "imageUrl": "https://github.com/sejo48/imajenes/blob/main/19923_w250.jpg?raw=true",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "f24dd04c-f8c6-47be-a1c7-027ada2c2e42",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "E01: Dos en una valsa",
-            "urlDrive": "https://drive.google.com/file/d/1GFRnkQF2FnMviODA4c-jHvKbNlU9YnGk/preview"
+            "id": "5ed705d2-6086-4991-b704-75c27916d7b5",
+            "title": "E01: Dos en una valsa",
+            "videoUrl": "https://drive.google.com/file/d/1GFRnkQF2FnMviODA4c-jHvKbNlU9YnGk/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E02: Hogar, dulce choza",
-            "urlDrive": "https://drive.google.com/file/d/17mHPa_2BS4rMZUAC5-_YHHYcCejX8C3F/preview"
+            "id": "c2751768-9b86-4a3d-8420-85da211dfdd4",
+            "title": "E02: Hogar, dulce choza",
+            "videoUrl": "https://drive.google.com/file/d/17mHPa_2BS4rMZUAC5-_YHHYcCejX8C3F/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E03: Que ladrón tan mono",
-            "urlDrive": "https://drive.google.com/file/d/1u_wigBXdW47rA4r974kXFs6CR6xxo6Sq/preview"
+            "id": "2e778977-bb63-420b-a7ff-4910bda732cb",
+            "title": "E03: Que ladrón tan mono",
+            "videoUrl": "https://drive.google.com/file/d/1u_wigBXdW47rA4r974kXFs6CR6xxo6Sq/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E04: El bello durmiente",
-            "urlDrive": "https://drive.google.com/file/d/1VUPjHPbvF0T8FoP_iVt3h6mRM_ABTjwX/preview"
+            "id": "71b239a6-3110-4e3a-8783-55dc6b7302ad",
+            "title": "E04: El bello durmiente",
+            "videoUrl": "https://drive.google.com/file/d/1VUPjHPbvF0T8FoP_iVt3h6mRM_ABTjwX/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E05: Ala equivocada",
-            "urlDrive": "https://drive.google.com/file/d/16hnD2hKgq1GfvHtg-rQXcW2vYO980f2x/preview"
+            "id": "65163ce0-2535-46a7-af09-63b6f6bd140c",
+            "title": "E05: Ala equivocada",
+            "videoUrl": "https://drive.google.com/file/d/16hnD2hKgq1GfvHtg-rQXcW2vYO980f2x/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E06: Gilligan para presidente",
-            "urlDrive": "https://drive.google.com/file/d/1MNePxY_lcrOPigKPPFzCqQa7PHnhFl85/preview"
+            "id": "7782d581-cc19-4732-a864-c021bbc07539",
+            "title": "E06: Gilligan para presidente",
+            "videoUrl": "https://drive.google.com/file/d/1MNePxY_lcrOPigKPPFzCqQa7PHnhFl85/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E07: El sonido de un granizo",
-            "urlDrive": "https://drive.google.com/file/d/1jozIzTBMJ6Q-HPyPrvzMqia80YmW27iO/preview"
+            "id": "42c624a9-62b3-457d-8999-e19c53778163",
+            "title": "E07: El sonido de un granizo",
+            "videoUrl": "https://drive.google.com/file/d/1jozIzTBMJ6Q-HPyPrvzMqia80YmW27iO/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E08: Adiós isla",
-            "urlDrive": "https://drive.google.com/file/d/1yUEno_eKND94nGdq81rj8dJC9IGKXJT2/preview"
+            "id": "f126e1f1-3d2f-4bc8-b76e-96060d6ee29f",
+            "title": "E08: Adiós isla",
+            "videoUrl": "https://drive.google.com/file/d/1yUEno_eKND94nGdq81rj8dJC9IGKXJT2/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E09: La fiebre del oro",
-            "urlDrive": "https://drive.google.com/file/d/1s3GZaMMrgj1cU3wv99cYWAOq542V7rG2/preview"
+            "id": "c0b7156b-73e0-46ee-9f3c-7640570a5ab5",
+            "title": "E09: La fiebre del oro",
+            "videoUrl": "https://drive.google.com/file/d/1s3GZaMMrgj1cU3wv99cYWAOq542V7rG2/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E10: Esperando a Watubi.",
-            "urlDrive": "https://drive.google.com/file/d/13QW8s1FROovIAZubogQ1Mxi9Z6UBTEz1/preview"
+            "id": "8df19b9a-e4e6-40a1-8a4a-1680cfec4c73",
+            "title": "E10: Esperando a Watubi.",
+            "videoUrl": "https://drive.google.com/file/d/13QW8s1FROovIAZubogQ1Mxi9Z6UBTEz1/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E11: Ginger, la gran estrella",
-            "urlDrive": "https://drive.google.com/file/d/1vOWeMcsCzRuwe5uF5q_YNt1wA5sMiVEa/preview"
+            "id": "149f2d54-74c5-4f8f-8c60-dfcbc18444a8",
+            "title": "E11: Ginger, la gran estrella",
+            "videoUrl": "https://drive.google.com/file/d/1vOWeMcsCzRuwe5uF5q_YNt1wA5sMiVEa/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E12: los peces pueden hablar",
-            "urlDrive": "https://drive.google.com/file/d/1gMlElQjEKrEKAg8ZW-R4xt7fvaL116Tv/preview"
+            "id": "67172092-d815-4f8b-9311-f4210e08f770",
+            "title": "E12: los peces pueden hablar",
+            "videoUrl": "https://drive.google.com/file/d/1gMlElQjEKrEKAg8ZW-R4xt7fvaL116Tv/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E13: Magnate petrolero",
-            "urlDrive": "https://drive.google.com/file/d/1XFSi_9dYz_f_G_iUGD9xv7IJANy5UZ2m/preview"
+            "id": "05b35b1a-a692-4e41-bfa7-66de248e32eb",
+            "title": "E13: Magnate petrolero",
+            "videoUrl": "https://drive.google.com/file/d/1XFSi_9dYz_f_G_iUGD9xv7IJANy5UZ2m/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E14: Agua, agua",
-            "urlDrive": "https://drive.google.com/file/d/16C4S7HxaE_1Yji2h2BWvZn_yIM2Q8eNu/preview"
+            "id": "984a6aed-2b0e-4d01-ae87-d0eaf467f20d",
+            "title": "E14: Agua, agua",
+            "videoUrl": "https://drive.google.com/file/d/16C4S7HxaE_1Yji2h2BWvZn_yIM2Q8eNu/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E15: El hijo del sol naciente",
-            "urlDrive": "https://drive.google.com/file/d/1PrANyjulyHNam7ak2nE5JlYCG754RAo8/preview"
+            "id": "e683b4b3-547a-4487-8c9d-f9181acce4cc",
+            "title": "E15: El hijo del sol naciente",
+            "videoUrl": "https://drive.google.com/file/d/1PrANyjulyHNam7ak2nE5JlYCG754RAo8/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E16: El cofre del tesoro",
-            "urlDrive": "https://drive.google.com/file/d/1w_UcDGfM_uRiBtOZu5KCkF-FIqzLpvvi/preview"
+            "id": "51f524f5-bfaa-41c6-8b56-f3318accf412",
+            "title": "E16: El cofre del tesoro",
+            "videoUrl": "https://drive.google.com/file/d/1w_UcDGfM_uRiBtOZu5KCkF-FIqzLpvvi/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E17: Gánster en la isla",
-            "urlDrive": "https://drive.google.com/file/d/1sAnWpRJpcHKuZKANgik4pQAhOdFoJwz_/preview"
+            "id": "dd9b556d-90f4-462d-8a3b-a53d90bd529b",
+            "title": "E17: Gánster en la isla",
+            "videoUrl": "https://drive.google.com/file/d/1sAnWpRJpcHKuZKANgik4pQAhOdFoJwz_/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E18: El blanco perfecto",
-            "urlDrive": "https://drive.google.com/file/d/1G_C7ANlVrPG92p5cE1KUa7YPsB5LDCWQ/preview"
+            "id": "021ea9b8-224b-4582-847b-d614712d74b5",
+            "title": "E18: El blanco perfecto",
+            "videoUrl": "https://drive.google.com/file/d/1G_C7ANlVrPG92p5cE1KUa7YPsB5LDCWQ/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E19: Gilligan y el niño de la selva",
-            "urlDrive": "https://drive.google.com/file/d/1E7WGTlGk8xLxG2FzkpdIDEMX5i4HuTR6/preview"
+            "id": "25670cc7-03f1-4117-9de5-f0cb1b7f3c71",
+            "title": "E19: Gilligan y el niño de la selva",
+            "videoUrl": "https://drive.google.com/file/d/1E7WGTlGk8xLxG2FzkpdIDEMX5i4HuTR6/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E20:  El conquistador de Hawái",
-            "urlDrive": "https://drive.google.com/file/d/1EG37gJ-bwQ6D9lsz8JhlGlA-R8bNtIrS/preview"
+            "id": "f1968998-b8fa-4362-8e26-1ab3e158cdc5",
+            "title": "E20:  El conquistador de Hawái",
+            "videoUrl": "https://drive.google.com/file/d/1EG37gJ-bwQ6D9lsz8JhlGlA-R8bNtIrS/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E21: El conquistador de Hawái",
-            "urlDrive": "https://drive.google.com/file/d/1IMRy1kJ-95aGWSoQixeAYy5fSRo1yFtE/preview"
+            "id": "d7d529cf-70dc-407e-9cc0-ab6e8a7b4da9",
+            "title": "E21: El conquistador de Hawái",
+            "videoUrl": "https://drive.google.com/file/d/1IMRy1kJ-95aGWSoQixeAYy5fSRo1yFtE/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E22: El gorila enamorado",
-            "urlDrive": "https://drive.google.com/file/d/1WcwmMKEPa0AzFrxicb-He-GGrmQuVSJj/preview"
+            "id": "cddc71d8-30f8-4ae6-8161-e5120dcbd5bc",
+            "title": "E22: El gorila enamorado",
+            "videoUrl": "https://drive.google.com/file/d/1WcwmMKEPa0AzFrxicb-He-GGrmQuVSJj/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E23: Como ser un heroe",
-            "urlDrive": "https://drive.google.com/file/d/1n4Fh6gLsKI9ew_wPf8ms9ljWrrEv6WHs/preview"
+            "id": "73f78f6f-99d2-4f19-bb2e-cade3a644e31",
+            "title": "E23: Como ser un heroe",
+            "videoUrl": "https://drive.google.com/file/d/1n4Fh6gLsKI9ew_wPf8ms9ljWrrEv6WHs/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E24: El regreso de Ala equivocada",
-            "urlDrive": "https://drive.google.com/file/d/1uwJYOfvU5eUdsjzH4HSdDX98nZb-YQfy/preview"
+            "id": "0299ef91-0fde-4be1-9a20-8bf14db44fef",
+            "title": "E24: El regreso de Ala equivocada",
+            "videoUrl": "https://drive.google.com/file/d/1uwJYOfvU5eUdsjzH4HSdDX98nZb-YQfy/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E25: La casamentera",
-            "urlDrive": "https://drive.google.com/file/d/1sZLYO_vNdNejD2MKx1Ufrgw243celThE/preview"
+            "id": "dc034475-c196-41d2-ab15-bcc3dc64a9cb",
+            "title": "E25: La casamentera",
+            "videoUrl": "https://drive.google.com/file/d/1sZLYO_vNdNejD2MKx1Ufrgw243celThE/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E26: La música tiene encanto",
-            "urlDrive": "https://drive.google.com/file/d/1n4QqcqdEW_P3IAs-YUTKH8K2IZ2bBdSZ/preview"
+            "id": "ded2eda2-a870-4c49-9a5e-9298811c3401",
+            "title": "E26: La música tiene encanto",
+            "videoUrl": "https://drive.google.com/file/d/1n4QqcqdEW_P3IAs-YUTKH8K2IZ2bBdSZ/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E27: El nuevo vecino-inglés",
-            "urlDrive": "https://drive.google.com/file/d/1u1yDHtEmR4heviRmxrtTZhioMmeswN2j/preview"
+            "id": "4057bb2a-50f1-4530-b5d5-4259bbeffb19",
+            "title": "E27: El nuevo vecino-inglés",
+            "videoUrl": "https://drive.google.com/file/d/1u1yDHtEmR4heviRmxrtTZhioMmeswN2j/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E28: Carrera tortuga",
-            "urlDrive": "https://drive.google.com/file/d/1lkkq3SuFfLEXz4wgWorkRvmpo4iED61-/preview"
+            "id": "78fc4910-a09f-4b0b-b276-7e98e1a13fb7",
+            "title": "E28: Carrera tortuga",
+            "videoUrl": "https://drive.google.com/file/d/1lkkq3SuFfLEXz4wgWorkRvmpo4iED61-/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E29: No me olvides",
-            "urlDrive": "https://drive.google.com/file/d/123A_zrP6WOlH1uAVkcBByP7wogufoIZb/preview"
+            "id": "5c799fae-96eb-4e8d-ae15-a51984cda6a3",
+            "title": "E29: No me olvides",
+            "videoUrl": "https://drive.google.com/file/d/123A_zrP6WOlH1uAVkcBByP7wogufoIZb/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E30: Tres para prepararse",
-            "urlDrive": "https://drive.google.com/file/d/1O4BH-vd7Cyy6hvmZqAoCd19E5HNUuftJ/preview"
+            "id": "8b21574d-a16b-4d62-801a-cbbec52d42de",
+            "title": "E30: Tres para prepararse",
+            "videoUrl": "https://drive.google.com/file/d/1O4BH-vd7Cyy6hvmZqAoCd19E5HNUuftJ/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E31:  no puedes ir a casa",
-            "urlDrive": "https://drive.google.com/file/d/1ByleWlSgVwN9b4s_5MX6EIPzRmG0KakH/preview"
+            "id": "1bf0487c-9d4e-4394-ae33-a21b0b32a1d0",
+            "title": "E31:  no puedes ir a casa",
+            "videoUrl": "https://drive.google.com/file/d/1ByleWlSgVwN9b4s_5MX6EIPzRmG0KakH/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E32: Adiposidad Física",
-            "urlDrive": "https://drive.google.com/file/d/1FfpGTrJh5B4aeg6PRkV1QukZNkq79ERB/preview"
+            "id": "5e189dc8-0318-47e5-b71b-e7c1e8c67016",
+            "title": "E32: Adiposidad Física",
+            "videoUrl": "https://drive.google.com/file/d/1FfpGTrJh5B4aeg6PRkV1QukZNkq79ERB/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E33: Por arte de magia",
-            "urlDrive": "https://drive.google.com/file/d/19fS6qNOfApPRnQzTTv0Gf--kZX_tZOg1/preview"
+            "id": "5179ce89-0856-4035-85be-b6cd92b71104",
+            "title": "E33: Por arte de magia",
+            "videoUrl": "https://drive.google.com/file/d/19fS6qNOfApPRnQzTTv0Gf--kZX_tZOg1/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E34: Adiós, viejo cuadro",
-            "urlDrive": "https://drive.google.com/file/d/1b5wyZBortRkZ0-L4LqG0QrgLAdr5s15h/preview"
+            "id": "3303d7ef-fa38-4a17-954a-a7b60fcff7c0",
+            "title": "E34: Adiós, viejo cuadro",
+            "videoUrl": "https://drive.google.com/file/d/1b5wyZBortRkZ0-L4LqG0QrgLAdr5s15h/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E35: Mi dulce Gilligan",
-            "urlDrive": "https://drive.google.com/file/d/1n0AllEKWkVDuMYUM9mgUl5EDL3jYYK7e/preview"
+            "id": "d9fa9816-74ab-42cf-b1e9-484f4a3edcda",
+            "title": "E35: Mi dulce Gilligan",
+            "videoUrl": "https://drive.google.com/file/d/1n0AllEKWkVDuMYUM9mgUl5EDL3jYYK7e/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "nariz con otro nombre",
-            "urlDrive": "https://drive.google.com/file/d/1lP29GlCihY9PloNIQRb7QDOQavPcM3g7/preview"
+            "id": "97706b1c-2151-417d-b47b-bd24aeb8a11c",
+            "title": "nariz con otro nombre",
+            "videoUrl": "https://drive.google.com/file/d/1lP29GlCihY9PloNIQRb7QDOQavPcM3g7/preview",
+            "watched": false
           }
         ]
       },
       {
-        "numeroTemporada": 2,
-        "episodios": [
+        "id": "d667ec51-923d-44fb-976a-d68177368bac",
+        "number": 2,
+        "episodes": [
           {
-            "tituloEpisodio": "E01:  Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/1wNncoyuo2WUSS-PTaoFwTU3T6qMdtEPK/preview"
+            "id": "843468bf-8adc-44b2-844f-acc8a64cbcb8",
+            "title": "E01:  Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/1wNncoyuo2WUSS-PTaoFwTU3T6qMdtEPK/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E02:  Episodio 2",
-            "urlDrive": "https://drive.google.com/file/d/1KpAgYY-MgbVxwK_YjVEPLhvl3BaXty4m/preview"
+            "id": "d91720f0-a542-4ba0-825f-c071c5c59fa7",
+            "title": "E02:  Episodio 2",
+            "videoUrl": "https://drive.google.com/file/d/1KpAgYY-MgbVxwK_YjVEPLhvl3BaXty4m/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E03:  Episodio 3",
-            "urlDrive": "https://drive.google.com/file/d/1mw5g3Yszi2IZ63kzqlZ59nn8HjIvBGhE/preview"
+            "id": "ca36566d-cf2c-4e0b-a143-88f48eb366dd",
+            "title": "E03:  Episodio 3",
+            "videoUrl": "https://drive.google.com/file/d/1mw5g3Yszi2IZ63kzqlZ59nn8HjIvBGhE/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E04: Episodio 4",
-            "urlDrive": "https://drive.google.com/file/d/1G4VdM7GV0uYgwpHJw9xR_jiO50j-jHjZ/preview"
+            "id": "77b23a79-c886-4484-b51d-e5ada440828f",
+            "title": "E04: Episodio 4",
+            "videoUrl": "https://drive.google.com/file/d/1G4VdM7GV0uYgwpHJw9xR_jiO50j-jHjZ/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E05: Episodio 5",
-            "urlDrive": "https://drive.google.com/file/d/1dtwj_kSqRLcMih-MKayYB3oL5iiwpWFL/preview"
+            "id": "d0c6df74-5b95-4de1-957d-f014f03501a2",
+            "title": "E05: Episodio 5",
+            "videoUrl": "https://drive.google.com/file/d/1dtwj_kSqRLcMih-MKayYB3oL5iiwpWFL/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E06: Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/1X-mlyIvKBCJfpM6RK3s_GRE1Q522BPtP/preview"
+            "id": "91f22621-2bca-4ce7-ada4-43c541fe9e96",
+            "title": "E06: Episodio 6",
+            "videoUrl": "https://drive.google.com/file/d/1X-mlyIvKBCJfpM6RK3s_GRE1Q522BPtP/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E07: Episodio 7",
-            "urlDrive": "https://drive.google.com/file/d/1BbJDym7WmYTA3athmgTORJTA9QzxWQ4N/preview"
+            "id": "412c9658-80a4-4ad2-be6b-7b13a5d85a91",
+            "title": "E07: Episodio 7",
+            "videoUrl": "https://drive.google.com/file/d/1BbJDym7WmYTA3athmgTORJTA9QzxWQ4N/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E08: Episodio 8",
-            "urlDrive": "https://drive.google.com/file/d/17C9yUMJq5bAyHzFw4FcWN66ACV1k0Lpp/preview"
+            "id": "79414233-1daf-4eed-93e0-d0bc0f2778b2",
+            "title": "E08: Episodio 8",
+            "videoUrl": "https://drive.google.com/file/d/17C9yUMJq5bAyHzFw4FcWN66ACV1k0Lpp/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E09: Episodio 9",
-            "urlDrive": "https://drive.google.com/file/d/1HinuV98wFeHO7NPoocBthBg4o4qOIFdk/preview"
+            "id": "95987457-d896-4714-8120-8237ddad5302",
+            "title": "E09: Episodio 9",
+            "videoUrl": "https://drive.google.com/file/d/1HinuV98wFeHO7NPoocBthBg4o4qOIFdk/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E10: Episodio 10",
-            "urlDrive": "https://drive.google.com/file/d/1_e-2vxepSGDquaHFmQYggbiJWUtCCU_F/preview"
+            "id": "15796e18-4718-4cee-94b2-cdf0f3914029",
+            "title": "E10: Episodio 10",
+            "videoUrl": "https://drive.google.com/file/d/1_e-2vxepSGDquaHFmQYggbiJWUtCCU_F/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E11:  Episodio 11",
-            "urlDrive": "https://drive.google.com/file/d/1cJV4LGhIQz3DIesSHCf8-VwocmfckZIT/preview"
+            "id": "3b2c1adb-0671-453d-b695-1f3f2b21b78b",
+            "title": "E11:  Episodio 11",
+            "videoUrl": "https://drive.google.com/file/d/1cJV4LGhIQz3DIesSHCf8-VwocmfckZIT/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E12: Episodio 12",
-            "urlDrive": "https://drive.google.com/file/d/1tYAh3mZSn_ldU_lANL4BnZ2iA6PJHzxK/preview"
+            "id": "d95513b8-d088-4408-bced-1a657a269073",
+            "title": "E12: Episodio 12",
+            "videoUrl": "https://drive.google.com/file/d/1tYAh3mZSn_ldU_lANL4BnZ2iA6PJHzxK/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E13: Episodio 13",
-            "urlDrive": "https://drive.google.com/file/d/1ApcV1i-b3vp8AL95NAWVyNydlJPfuaCA/preview"
+            "id": "ae4029e0-4cdc-425d-be53-1e6b886f262c",
+            "title": "E13: Episodio 13",
+            "videoUrl": "https://drive.google.com/file/d/1ApcV1i-b3vp8AL95NAWVyNydlJPfuaCA/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E14: Episodio 14",
-            "urlDrive": "https://drive.google.com/file/d/1SjjMVp03cgSG0quSibgCrE220BOPXFX1/preview"
+            "id": "a866afae-0362-47a6-9506-684642703a96",
+            "title": "E14: Episodio 14",
+            "videoUrl": "https://drive.google.com/file/d/1SjjMVp03cgSG0quSibgCrE220BOPXFX1/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E15: Episodio 15",
-            "urlDrive": "https://drive.google.com/file/d/10gO8nuzNMOgbJqGuFELTAiSFGgyRfZQf/preview"
+            "id": "ca289372-574d-40e0-9db2-13d7d1211b38",
+            "title": "E15: Episodio 15",
+            "videoUrl": "https://drive.google.com/file/d/10gO8nuzNMOgbJqGuFELTAiSFGgyRfZQf/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E16: Episodio 16",
-            "urlDrive": "https://drive.google.com/file/d/1sxd5v7zEl4FCoGXDJYTWjDvEJiwgHkWq/preview"
+            "id": "ba3e135a-239c-4104-a7a0-030b262e1f2b",
+            "title": "E16: Episodio 16",
+            "videoUrl": "https://drive.google.com/file/d/1sxd5v7zEl4FCoGXDJYTWjDvEJiwgHkWq/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E17: Episodio 17",
-            "urlDrive": "https://drive.google.com/file/d/1bllXhIPIZg9TSIGTOBTFHuGxZmGu_zRf/preview"
+            "id": "9b97089f-07ab-4e00-99d0-43c987c3ac3c",
+            "title": "E17: Episodio 17",
+            "videoUrl": "https://drive.google.com/file/d/1bllXhIPIZg9TSIGTOBTFHuGxZmGu_zRf/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E18: Episodio 18",
-            "urlDrive": "https://drive.google.com/file/d/1LSsRG-esa2GD00WJPT0X41dFUupYzse_/preview"
+            "id": "e473289c-95f6-4591-8da9-1eb4d7592197",
+            "title": "E18: Episodio 18",
+            "videoUrl": "https://drive.google.com/file/d/1LSsRG-esa2GD00WJPT0X41dFUupYzse_/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E19: Episodio 19",
-            "urlDrive": "https://drive.google.com/file/d/1y2ib2XtAvpJ-1EOAKeU4BWhAyZIifdo1/preview"
+            "id": "c888d199-56f3-4530-88f2-8481ebdb7b19",
+            "title": "E19: Episodio 19",
+            "videoUrl": "https://drive.google.com/file/d/1y2ib2XtAvpJ-1EOAKeU4BWhAyZIifdo1/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E20 Episodio 20",
-            "urlDrive": "https://drive.google.com/file/d/1SDWNH3_tg5nfcEw0f0w7KoGtYx8w7nzd/preview"
+            "id": "8378fc0c-8a18-4e46-be2c-9c393f7a5063",
+            "title": "E20 Episodio 20",
+            "videoUrl": "https://drive.google.com/file/d/1SDWNH3_tg5nfcEw0f0w7KoGtYx8w7nzd/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E21: Episodio 21",
-            "urlDrive": "https://drive.google.com/file/d/1wf-OGJnEygpeTtRYuVwSmDP8HiTIgHAm/preview"
+            "id": "a36bd59b-73f9-4d7f-8f2d-c56f8d79254d",
+            "title": "E21: Episodio 21",
+            "videoUrl": "https://drive.google.com/file/d/1wf-OGJnEygpeTtRYuVwSmDP8HiTIgHAm/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E22: Episodio 22",
-            "urlDrive": "https://drive.google.com/file/d/1eBSovthpvKSJcMEXBhulvgfM_hF2f_70/preview"
+            "id": "84b8f2f2-5001-4d4a-b4d1-fbad5b766a07",
+            "title": "E22: Episodio 22",
+            "videoUrl": "https://drive.google.com/file/d/1eBSovthpvKSJcMEXBhulvgfM_hF2f_70/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E23: Episodio 23",
-            "urlDrive": "https://drive.google.com/file/d/1M2fnY5_7VK40q4MOKxGNnXZtJTB6FsqD/preview"
+            "id": "8476e711-ce59-4f60-8134-b2b281a67299",
+            "title": "E23: Episodio 23",
+            "videoUrl": "https://drive.google.com/file/d/1M2fnY5_7VK40q4MOKxGNnXZtJTB6FsqD/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E24: Episodio 24",
-            "urlDrive": "https://drive.google.com/file/d/1RAs6WzeC4CEUFmB5LOCsjMpSa1vdsjze/preview"
+            "id": "6d0f9108-c5ca-4ffc-9cbb-05b3eaa40e65",
+            "title": "E24: Episodio 24",
+            "videoUrl": "https://drive.google.com/file/d/1RAs6WzeC4CEUFmB5LOCsjMpSa1vdsjze/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E25: Episodio 25",
-            "urlDrive": "https://drive.google.com/file/d/14hIwwYuLch4rJDwhZWn7aMFY8XZp5C3I/preview"
+            "id": "4896b940-f5eb-4da1-bec2-a730793e3d01",
+            "title": "E25: Episodio 25",
+            "videoUrl": "https://drive.google.com/file/d/14hIwwYuLch4rJDwhZWn7aMFY8XZp5C3I/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E26: Episodio 26",
-            "urlDrive": "https://drive.google.com/file/d/1sY8o28A5BMLom-yB7mPRF5QrtK_OdX5K/preview"
+            "id": "7dbbfb81-b984-4d53-b81d-e70a51f3e7f4",
+            "title": "E26: Episodio 26",
+            "videoUrl": "https://drive.google.com/file/d/1sY8o28A5BMLom-yB7mPRF5QrtK_OdX5K/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E27: Episodio 27",
-            "urlDrive": "https://drive.google.com/file/d/14DX-D2IO0odYT4AUX8lxF4YeGuyvQ4Qh/preview"
+            "id": "53f130fe-8732-4f22-a99f-e88a7d3bc1f7",
+            "title": "E27: Episodio 27",
+            "videoUrl": "https://drive.google.com/file/d/14DX-D2IO0odYT4AUX8lxF4YeGuyvQ4Qh/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E28: Episodio 28",
-            "urlDrive": "https://drive.google.com/file/d/1OTWY881ZUWEDrVEIyaoOf1XN_rVgzIwj/preview"
+            "id": "774368aa-c3dc-4db7-b36a-b56599a01792",
+            "title": "E28: Episodio 28",
+            "videoUrl": "https://drive.google.com/file/d/1OTWY881ZUWEDrVEIyaoOf1XN_rVgzIwj/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E29: Episodio 29",
-            "urlDrive": "https://drive.google.com/file/d/1VzEoczAMBp-sJArI104wOdn63BvqR2ls/preview"
+            "id": "fecb18b5-f445-4f88-809c-20b42edbd59c",
+            "title": "E29: Episodio 29",
+            "videoUrl": "https://drive.google.com/file/d/1VzEoczAMBp-sJArI104wOdn63BvqR2ls/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E30: Episodio 30",
-            "urlDrive": "https://drive.google.com/file/d/1GO_3EP39Hqwo1_iqDy3JgKd012HBcNtq/preview"
+            "id": "ee5cd34c-0b5a-486f-aaba-98dbcd81d3d8",
+            "title": "E30: Episodio 30",
+            "videoUrl": "https://drive.google.com/file/d/1GO_3EP39Hqwo1_iqDy3JgKd012HBcNtq/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E31: Episodio 31",
-            "urlDrive": "https://drive.google.com/file/d/1XIdZQejZiqRxk0ky48Q2rPC1mVahDcXv/preview"
+            "id": "b13cdb4c-7d70-4446-a820-7db57d1104be",
+            "title": "E31: Episodio 31",
+            "videoUrl": "https://drive.google.com/file/d/1XIdZQejZiqRxk0ky48Q2rPC1mVahDcXv/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E32: Episodio 32",
-            "urlDrive": "https://drive.google.com/file/d/1NqI9ZmRR3B33_3obdKw2XEmFOkzNj29s/preview"
+            "id": "616dccfc-727f-406a-aa03-67659f77e543",
+            "title": "E32: Episodio 32",
+            "videoUrl": "https://drive.google.com/file/d/1NqI9ZmRR3B33_3obdKw2XEmFOkzNj29s/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E33: Episodio 33",
-            "urlDrive": "https://drive.google.com/file/d/1qK3t550VyPtYIUfnWZDU12Uq1NfM4wCz/preview"
+            "id": "f6bb07b9-e865-4610-83bf-3689a98498c0",
+            "title": "E33: Episodio 33",
+            "videoUrl": "https://drive.google.com/file/d/1qK3t550VyPtYIUfnWZDU12Uq1NfM4wCz/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E34: Episodio 34",
-            "urlDrive": "https://drive.google.com/file/d/1oIts7lJ3lfhXKOqN2-hWj88a1AgoYnea/preview"
+            "id": "28e2b933-370c-45e6-906f-c1c741be932a",
+            "title": "E34: Episodio 34",
+            "videoUrl": "https://drive.google.com/file/d/1oIts7lJ3lfhXKOqN2-hWj88a1AgoYnea/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E35: Episodio 35",
-            "urlDrive": "https://drive.google.com/file/d/1dP49mleYkKHkE78OpElkRhOlLcknmn_A/preview"
+            "id": "d768df62-c07d-458a-94e2-3742d0173f1f",
+            "title": "E35: Episodio 35",
+            "videoUrl": "https://drive.google.com/file/d/1dP49mleYkKHkE78OpElkRhOlLcknmn_A/preview",
+            "watched": false
           }
         ]
       },
       {
-        "numeroTemporada": 3,
-        "episodios": [
+        "id": "57d071cf-9e5d-48e1-936c-c2115de31576",
+        "number": 3,
+        "episodes": [
           {
-            "tituloEpisodio": "E01: Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/1hcOVGIu06D-L7vqIf7BI1hZyOhIs__4Y/preview"
+            "id": "6d3d36e0-9781-4add-88c2-28e15491084b",
+            "title": "E01: Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/1hcOVGIu06D-L7vqIf7BI1hZyOhIs__4Y/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E02: Episodio 2",
-            "urlDrive": "https://drive.google.com/file/d/1dgMt1-aPLQHMigGOe30POS_1BRgqF1R3/preview"
+            "id": "a4c19517-2da2-4bfc-8eb0-9cdcd102eb60",
+            "title": "E02: Episodio 2",
+            "videoUrl": "https://drive.google.com/file/d/1dgMt1-aPLQHMigGOe30POS_1BRgqF1R3/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E03: Episodio 3",
-            "urlDrive": "https://drive.google.com/file/d/1gnnJZKrYAM6oFJlzvW2unSjAhx2j71Tz/preview"
+            "id": "9f2db157-9e53-4b8a-b038-7fa20906caf1",
+            "title": "E03: Episodio 3",
+            "videoUrl": "https://drive.google.com/file/d/1gnnJZKrYAM6oFJlzvW2unSjAhx2j71Tz/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E04: Episodio 4",
-            "urlDrive": "https://drive.google.com/file/d/1lERp_11Wqh7-I8td5ka0MXwchkervR-Y/preview"
+            "id": "12f4a262-efc7-428a-986a-7c191516bad5",
+            "title": "E04: Episodio 4",
+            "videoUrl": "https://drive.google.com/file/d/1lERp_11Wqh7-I8td5ka0MXwchkervR-Y/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E05: Episodio 5",
-            "urlDrive": "https://drive.google.com/file/d/1o2vwr0eLwgJBfTQcUKc2E0LvNVKjmW6L/preview"
+            "id": "88b7f11f-e42d-46ee-ac6d-f331228c74d4",
+            "title": "E05: Episodio 5",
+            "videoUrl": "https://drive.google.com/file/d/1o2vwr0eLwgJBfTQcUKc2E0LvNVKjmW6L/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E06: Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/1jijuGiiadJlxF67sfKZ6cVzI-MwFv-u0/preview"
+            "id": "513ce97c-e11c-4056-98a9-eef4c1f72326",
+            "title": "E06: Episodio 6",
+            "videoUrl": "https://drive.google.com/file/d/1jijuGiiadJlxF67sfKZ6cVzI-MwFv-u0/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E07: Episodio 7",
-            "urlDrive": "https://drive.google.com/file/d/1AAjDsjsStLJYoOX4XPIky1tqo4CY6aYd/preview"
+            "id": "f9754671-25fc-414b-a307-44a3a6df1efc",
+            "title": "E07: Episodio 7",
+            "videoUrl": "https://drive.google.com/file/d/1AAjDsjsStLJYoOX4XPIky1tqo4CY6aYd/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E08: Episodio 8",
-            "urlDrive": "https://drive.google.com/file/d/14OTJ3FudMr0i4_7APWx24I-8lEKsG-QY/preview"
+            "id": "0b790c52-7503-43df-a152-5017612d7acb",
+            "title": "E08: Episodio 8",
+            "videoUrl": "https://drive.google.com/file/d/14OTJ3FudMr0i4_7APWx24I-8lEKsG-QY/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E09: Episodio 9",
-            "urlDrive": "https://drive.google.com/file/d/1O6-FyRJ-rSDsP1F89F4mNsrYUdU1Z4aa/preview"
+            "id": "bfde7bed-55d7-4245-9205-8db3d0bc164c",
+            "title": "E09: Episodio 9",
+            "videoUrl": "https://drive.google.com/file/d/1O6-FyRJ-rSDsP1F89F4mNsrYUdU1Z4aa/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E10: Episodio 10",
-            "urlDrive": "https://drive.google.com/file/d/1YI_cBs46h4zr3UvMRvMALb_K_DXWu4JV/preview"
+            "id": "042768b3-aa1f-4780-87b7-0b611fe0fe84",
+            "title": "E10: Episodio 10",
+            "videoUrl": "https://drive.google.com/file/d/1YI_cBs46h4zr3UvMRvMALb_K_DXWu4JV/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E11: Episodio 11",
-            "urlDrive": "https://drive.google.com/file/d/19Vjux8yhe6sd3_yUI6grzEMbS1Unh3k5/preview"
+            "id": "7ae174aa-e623-461f-9d83-62aa62932030",
+            "title": "E11: Episodio 11",
+            "videoUrl": "https://drive.google.com/file/d/19Vjux8yhe6sd3_yUI6grzEMbS1Unh3k5/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E12: Episodio 12",
-            "urlDrive": "https://drive.google.com/file/d/1KRi0BPSoum7GRoex1sPjSaCs--Uw_BRu/preview"
+            "id": "10e71314-54e2-4430-8999-70e0023b03db",
+            "title": "E12: Episodio 12",
+            "videoUrl": "https://drive.google.com/file/d/1KRi0BPSoum7GRoex1sPjSaCs--Uw_BRu/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E13: Episodio 13",
-            "urlDrive": "https://drive.google.com/file/d/1C8FYJjEUFDWvrgDEcZlLBVM3eaEYZFhJ/preview"
+            "id": "06d2dd4d-36c4-4917-9d76-cb028eb8ceb3",
+            "title": "E13: Episodio 13",
+            "videoUrl": "https://drive.google.com/file/d/1C8FYJjEUFDWvrgDEcZlLBVM3eaEYZFhJ/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E14: Episodio 14",
-            "urlDrive": "https://drive.google.com/file/d/1h6hL6IQMzn5nR4YF01qeTeTA9q9ISWr_/preview"
+            "id": "9b62f58d-34d2-485c-a278-5ef533acb9e9",
+            "title": "E14: Episodio 14",
+            "videoUrl": "https://drive.google.com/file/d/1h6hL6IQMzn5nR4YF01qeTeTA9q9ISWr_/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E15: Episodio 15",
-            "urlDrive": "https://drive.google.com/file/d/1eJKPm3TyIX1Th3rGOZAnHvG91iPoKqDO/preview"
+            "id": "86a52be2-77ce-42c7-83e1-273961a7be7b",
+            "title": "E15: Episodio 15",
+            "videoUrl": "https://drive.google.com/file/d/1eJKPm3TyIX1Th3rGOZAnHvG91iPoKqDO/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E16: Episodio 16",
-            "urlDrive": "https://drive.google.com/file/d/1xfGczQb9OUpS3P886ntSXt1K704lfP00/preview"
+            "id": "61a4a156-2498-4469-9c33-dcaeaeff78e8",
+            "title": "E16: Episodio 16",
+            "videoUrl": "https://drive.google.com/file/d/1xfGczQb9OUpS3P886ntSXt1K704lfP00/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E17: Episodio 17",
-            "urlDrive": "https://drive.google.com/file/d/1TpiUhlobpoh2CaBKUwC71zadXEXRqpe5/preview"
+            "id": "1c11cfe9-ec74-49e7-a704-5c278f98df99",
+            "title": "E17: Episodio 17",
+            "videoUrl": "https://drive.google.com/file/d/1TpiUhlobpoh2CaBKUwC71zadXEXRqpe5/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E18: Episodio 18",
-            "urlDrive": "https://drive.google.com/file/d/1SEg2Q6E5k-qJoFYp9chpJ-rwFXq1nXZh/preview"
+            "id": "6d62a448-ab76-48e5-b0b7-143f19f1e9ec",
+            "title": "E18: Episodio 18",
+            "videoUrl": "https://drive.google.com/file/d/1SEg2Q6E5k-qJoFYp9chpJ-rwFXq1nXZh/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E19: Episodio 19",
-            "urlDrive": "https://drive.google.com/file/d/1gVH0Umska8d21gEMH8ZsY4AqBvrk2FJy/preview"
+            "id": "af60d1f9-7e32-406b-b196-7a5ab4171387",
+            "title": "E19: Episodio 19",
+            "videoUrl": "https://drive.google.com/file/d/1gVH0Umska8d21gEMH8ZsY4AqBvrk2FJy/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E20: Episodio 20",
-            "urlDrive": "https://drive.google.com/file/d/1qjRvfWfdnxda5ChKqa4qmuXjzYSFapG3/preview"
+            "id": "89ee823b-1cf3-4128-9730-b05acd00e675",
+            "title": "E20: Episodio 20",
+            "videoUrl": "https://drive.google.com/file/d/1qjRvfWfdnxda5ChKqa4qmuXjzYSFapG3/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E21:  Episodio 21",
-            "urlDrive": "https://drive.google.com/file/d/1_ipiKRRcqswk0uas8Gc92KvZ2WYIlj9x/preview"
+            "id": "81d936c5-f28f-46e6-93f5-44dfa3e49977",
+            "title": "E21:  Episodio 21",
+            "videoUrl": "https://drive.google.com/file/d/1_ipiKRRcqswk0uas8Gc92KvZ2WYIlj9x/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E22: Episodio 22",
-            "urlDrive": "https://drive.google.com/file/d/1UTt3GjsdtrQMGcDskKAnEHShB3XcIZlI/preview"
+            "id": "62b8f5e1-11c3-43e5-adc8-73d275c24e0f",
+            "title": "E22: Episodio 22",
+            "videoUrl": "https://drive.google.com/file/d/1UTt3GjsdtrQMGcDskKAnEHShB3XcIZlI/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E23: Episodio 23",
-            "urlDrive": "https://drive.google.com/file/d/124JXDTRBahQACZtHEnbMRhpNnaTgVQBc/preview"
+            "id": "5df2330f-ae9e-47e2-9d50-6ebe76850994",
+            "title": "E23: Episodio 23",
+            "videoUrl": "https://drive.google.com/file/d/124JXDTRBahQACZtHEnbMRhpNnaTgVQBc/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E24: Episodio 24",
-            "urlDrive": "https://drive.google.com/file/d/1q6LZrkO3wCQQDA5pN-g8P3uRg_vA5kju/preview"
+            "id": "2e63e229-cf39-4069-afc5-5f0c02aa0a0e",
+            "title": "E24: Episodio 24",
+            "videoUrl": "https://drive.google.com/file/d/1q6LZrkO3wCQQDA5pN-g8P3uRg_vA5kju/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E25:  Episodio 25",
-            "urlDrive": "https://drive.google.com/file/d/1yxr5mgn3-NR0XxIBcsfiORT3o-Jp-Sgu/preview"
+            "id": "d8501e91-e89d-4fb4-b708-28340b5310f0",
+            "title": "E25:  Episodio 25",
+            "videoUrl": "https://drive.google.com/file/d/1yxr5mgn3-NR0XxIBcsfiORT3o-Jp-Sgu/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E26: Episodio 26",
-            "urlDrive": "https://drive.google.com/file/d/1LI-XLFa5mEWhlKKNF-x5NdlTHM4OVFlc/preview"
+            "id": "1449ec12-5bc1-4829-80f3-cf77dc63a60d",
+            "title": "E26: Episodio 26",
+            "videoUrl": "https://drive.google.com/file/d/1LI-XLFa5mEWhlKKNF-x5NdlTHM4OVFlc/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E27: Episodio 27",
-            "urlDrive": "https://drive.google.com/file/d/118ufNKIAQpe0akWXioV04C0nz58-zUHp/preview"
+            "id": "cf042280-cf96-42e5-bb87-173787aedfd6",
+            "title": "E27: Episodio 27",
+            "videoUrl": "https://drive.google.com/file/d/118ufNKIAQpe0akWXioV04C0nz58-zUHp/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E28: Episodio 28",
-            "urlDrive": "https://drive.google.com/file/d/1lVMPzBSNXJJRjPgxp-DqpUdLUbfCsPBJ/preview"
+            "id": "0427131e-b1dd-480a-9d96-3909c9a06364",
+            "title": "E28: Episodio 28",
+            "videoUrl": "https://drive.google.com/file/d/1lVMPzBSNXJJRjPgxp-DqpUdLUbfCsPBJ/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E29: Episodio 29",
-            "urlDrive": "https://drive.google.com/file/d/1z7S5phgy3St7XuHtH4wISRIF8lHH0ugM/preview"
+            "id": "3f5b0c6a-279d-47bf-91f8-cdd13defeae4",
+            "title": "E29: Episodio 29",
+            "videoUrl": "https://drive.google.com/file/d/1z7S5phgy3St7XuHtH4wISRIF8lHH0ugM/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "E30: Episodio 30",
-            "urlDrive": "https://drive.google.com/file/d/1TxfkgNZ3lCgNyQDu0gBW3cL6WFB6R4t4/preview"
+            "id": "c0341395-5613-4ba1-8a8e-2e3427115391",
+            "title": "E30: Episodio 30",
+            "videoUrl": "https://drive.google.com/file/d/1TxfkgNZ3lCgNyQDu0gBW3cL6WFB6R4t4/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "Minecraft película",
-    "descripcion": "\"Una película de Minecraft\"",
-    "imagen": "https://preview.redd.it/some-more-posters-for-a-minecraft-movie-v0-d1slryxvlvle1.png?width=640&crop=smart&auto=webp&s=0f331faeddf7bf281f6aaccc8a66096bdc168966",
-    "temporadas": [
+    "id": "95803442-a8e8-413e-963f-0610ee632b89",
+    "title": "Minecraft película",
+    "description": "\"Una película de Minecraft\"",
+    "imageUrl": "https://preview.redd.it/some-more-posters-for-a-minecraft-movie-v0-d1slryxvlvle1.png?width=640&crop=smart&auto=webp&s=0f331faeddf7bf281f6aaccc8a66096bdc168966",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "50f9ae10-c55a-4a9c-8fd3-c12b8df15544",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Minecraft Película inglés",
-            "urlDrive": "https://drive.google.com/file/d/1i5QFodXejARRYy2hExZZQ2hQS_atTaX0/preview"
+            "id": "beb588c6-565c-4f21-b5e5-cb037f77dae4",
+            "title": "Minecraft Película inglés",
+            "videoUrl": "https://drive.google.com/file/d/1i5QFodXejARRYy2hExZZQ2hQS_atTaX0/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Minecraft Película español",
-            "urlDrive": "https://drive.google.com/file/d/12IThUvooNjZSLNItRkHtpLUBgC5wUiBR/preview"
+            "id": "559bbf5a-f48a-4702-aab8-8dedc19f710a",
+            "title": "Minecraft Película español",
+            "videoUrl": "https://drive.google.com/file/d/12IThUvooNjZSLNItRkHtpLUBgC5wUiBR/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "Viaje al Fondo del Mar",
-    "descripcion": "Serie de TV de 110 episodios (1964-1968). Un submarino cuya misión es investigar los misterios de las profundidades marinas",
-    "imagen": "https://m.media-amazon.com/images/M/MV5BODhhNzVlMjMtMmZkZC00ZDhiLWIzN2EtM2NmZGRiMmUxMDI2XkEyXkFqcGc@._V1_.jpg",
-    "temporadas": [
+    "id": "56cbc328-1104-47fb-aefd-844c25ebb7ab",
+    "title": "Viaje al Fondo del Mar",
+    "description": "Serie de TV de 110 episodios (1964-1968). Un submarino cuya misión es investigar los misterios de las profundidades marinas",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BODhhNzVlMjMtMmZkZC00ZDhiLWIzN2EtM2NmZGRiMmUxMDI2XkEyXkFqcGc@._V1_.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "1c985565-2f76-4ad0-b8b7-e3579ff1f724",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/1dHJe9S8ghlORRfeUxF3dxlTbcskGS_fz/preview"
+            "id": "980a0b05-ae24-4301-a7bc-ef6712d19ca7",
+            "title": "Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/1dHJe9S8ghlORRfeUxF3dxlTbcskGS_fz/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 2",
-            "urlDrive": "https://drive.google.com/file/d/1octWi3UJJph4CDjK6E7NhJ85zjHAGtFw/preview"
+            "id": "1ee81561-3e97-43bc-8a14-f3823990d8f6",
+            "title": "Episodio 2",
+            "videoUrl": "https://drive.google.com/file/d/1octWi3UJJph4CDjK6E7NhJ85zjHAGtFw/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 3",
-            "urlDrive": "https://drive.google.com/file/d/1RXaHfcQaAB9v0O7tbE6o1Tryr7DGjBA-/preview"
+            "id": "62d565ec-97f1-4e05-bff4-1aadf0eba8c8",
+            "title": "Episodio 3",
+            "videoUrl": "https://drive.google.com/file/d/1RXaHfcQaAB9v0O7tbE6o1Tryr7DGjBA-/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 4",
-            "urlDrive": "https://drive.google.com/file/d/1u5MhRB0oYJLHuhBLvklbs4qw-T2THaNi/preview"
+            "id": "35ddfa2d-619e-4634-a794-cafd9733a3be",
+            "title": "Episodio 4",
+            "videoUrl": "https://drive.google.com/file/d/1u5MhRB0oYJLHuhBLvklbs4qw-T2THaNi/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 5",
-            "urlDrive": "https://drive.google.com/file/d/1dL9h1e9taU-qFFSvXc-vRvsO8Khxw3gV/preview"
+            "id": "1b879e59-8fc9-4d5c-b96a-3416bca0c33c",
+            "title": "Episodio 5",
+            "videoUrl": "https://drive.google.com/file/d/1dL9h1e9taU-qFFSvXc-vRvsO8Khxw3gV/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/1DtOJ4DqxY3YbkwMfjRQrscfAxIRy07iE/preview"
+            "id": "58e6d2dd-2bfd-4f83-a2fb-301d9fa2ecdb",
+            "title": "Episodio 6",
+            "videoUrl": "https://drive.google.com/file/d/1DtOJ4DqxY3YbkwMfjRQrscfAxIRy07iE/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 7",
-            "urlDrive": "https://drive.google.com/file/d/1IzBRzQhZX2aE0is9WpXlDbwsZAb9N2gA/preview"
+            "id": "01fd0691-45e8-44e4-b94e-4aaae6cd7733",
+            "title": "Episodio 7",
+            "videoUrl": "https://drive.google.com/file/d/1IzBRzQhZX2aE0is9WpXlDbwsZAb9N2gA/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 8",
-            "urlDrive": "https://drive.google.com/file/d/1cA5AKQHgz36fvGw0OaVvrO7J7U3wtsyg/preview"
+            "id": "d35c724e-f2a8-4f18-8ab6-689eedef42b9",
+            "title": "Episodio 8",
+            "videoUrl": "https://drive.google.com/file/d/1cA5AKQHgz36fvGw0OaVvrO7J7U3wtsyg/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 9",
-            "urlDrive": "https://drive.google.com/file/d/1yhXYatyJEIskksHlI6Smx2FrkZPhDbc2/preview"
+            "id": "c1d18f88-c9fa-4b2d-8965-aa91ccfbec3a",
+            "title": "Episodio 9",
+            "videoUrl": "https://drive.google.com/file/d/1yhXYatyJEIskksHlI6Smx2FrkZPhDbc2/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 10",
-            "urlDrive": "https://drive.google.com/file/d/1Do1S4EGIs74hsACHDPVzR5Zb0v0ImgZU/preview"
+            "id": "3075f9e9-94da-4a52-a8c9-28ca1f7da061",
+            "title": "Episodio 10",
+            "videoUrl": "https://drive.google.com/file/d/1Do1S4EGIs74hsACHDPVzR5Zb0v0ImgZU/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "La marina de mackey",
-    "descripcion": "La marina de McHale es una serie estadounidense emitida originalmente por la ABC en 1962,",
-    "imagen": "https://media.themoviedb.org/t/p/w500/fTbprFBTt4lZb9CQpHZ4FR4BAHk.jpg",
-    "temporadas": [
+    "id": "776fc4b8-46d9-41b8-9f95-70dc868d5356",
+    "title": "La marina de mackey",
+    "description": "La marina de McHale es una serie estadounidense emitida originalmente por la ABC en 1962,",
+    "imageUrl": "https://media.themoviedb.org/t/p/w500/fTbprFBTt4lZb9CQpHZ4FR4BAHk.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "d1fe242c-87a4-4691-98a7-169a8e2669b7",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/120gfQhevwvPG7zrH0SWxqwCZC3fhZCHl/preview"
+            "id": "562a8a78-65b8-43a0-95de-20b48656b04e",
+            "title": "Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/120gfQhevwvPG7zrH0SWxqwCZC3fhZCHl/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 2",
-            "urlDrive": "https://drive.google.com/file/d/1OrUveHhRRZDpM1SUq3zQl49V3bgzeD9_/preview"
+            "id": "0bd2a865-e1f8-4e7a-b1e0-0e06a253873d",
+            "title": "Episodio 2",
+            "videoUrl": "https://drive.google.com/file/d/1OrUveHhRRZDpM1SUq3zQl49V3bgzeD9_/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 3",
-            "urlDrive": "https://drive.google.com/file/d/1wYBH9ZI-EuIjVhbEFvKgyAykjVulKyIv/preview"
+            "id": "7a2d3582-7251-4713-a421-43b191235c52",
+            "title": "Episodio 3",
+            "videoUrl": "https://drive.google.com/file/d/1wYBH9ZI-EuIjVhbEFvKgyAykjVulKyIv/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 4",
-            "urlDrive": "https://drive.google.com/file/d/1num-k0yn5XwymAf9tlZrlBzu9-4AZnHW/preview"
+            "id": "e2c5c11d-2f32-4156-8b08-31413b33e5d2",
+            "title": "Episodio 4",
+            "videoUrl": "https://drive.google.com/file/d/1num-k0yn5XwymAf9tlZrlBzu9-4AZnHW/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 5",
-            "urlDrive": "https://drive.google.com/file/d/1ckwf_p5g0etaW4gw5KDDHmdhO-6ZLZ04/preview"
+            "id": "bbf44160-1c27-4943-9b8d-b40992ced2de",
+            "title": "Episodio 5",
+            "videoUrl": "https://drive.google.com/file/d/1ckwf_p5g0etaW4gw5KDDHmdhO-6ZLZ04/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/1hTKAx-xamEX5pDD0fyh5MB_xXnRPBJXX/preview"
+            "id": "821b1b72-704f-4dc9-8421-e4a5a078d20d",
+            "title": "Episodio 6",
+            "videoUrl": "https://drive.google.com/file/d/1hTKAx-xamEX5pDD0fyh5MB_xXnRPBJXX/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 7",
-            "urlDrive": "https://drive.google.com/file/d/1hTKAx-xamEX5pDD0fyh5MB_xXnRPBJXX/preview"
+            "id": "eb2a8434-4f94-4f6f-bf5e-c7165a799dc4",
+            "title": "Episodio 7",
+            "videoUrl": "https://drive.google.com/file/d/1hTKAx-xamEX5pDD0fyh5MB_xXnRPBJXX/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 8",
-            "urlDrive": "https://drive.google.com/file/d/1OaqPqc5hqUhIXonU32XDPBUgeXLRsxPN/preview"
+            "id": "885e84b3-a1ba-445c-8229-3f373b4427e1",
+            "title": "Episodio 8",
+            "videoUrl": "https://drive.google.com/file/d/1OaqPqc5hqUhIXonU32XDPBUgeXLRsxPN/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "El Show de Abbott y Costello",
-    "descripcion": "na de las más famosas y quizá la mejor de las apariciones cinematográficas de la popular pareja de cómicos americanos Bud Abbott y Lou Costello.",
-    "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1952/12/w300/vorrWqNL7alMqScKhrNLdZZcMOt.jpg",
-    "temporadas": [
+    "id": "46a92307-83e6-4d9c-9ce5-acaa169a74eb",
+    "title": "El Show de Abbott y Costello",
+    "description": "na de las más famosas y quizá la mejor de las apariciones cinematográficas de la popular pareja de cómicos americanos Bud Abbott y Lou Costello.",
+    "imageUrl": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1952/12/w300/vorrWqNL7alMqScKhrNLdZZcMOt.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "b50cf816-fdea-415a-913b-08bd3859b6b7",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Abbott and Costello 01",
-            "urlDrive": "https://drive.google.com/file/d/1NoAwW70coFGM1gIEgD_tR-sv7OdQTfXa/preview"
+            "id": "08069b6b-d1ba-4e65-87cb-4fe61ecc6925",
+            "title": "Abbott and Costello 01",
+            "videoUrl": "https://drive.google.com/file/d/1NoAwW70coFGM1gIEgD_tR-sv7OdQTfXa/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Abbott and Costello 02",
-            "urlDrive": "https://drive.google.com/file/d/1_TF2G6NxcaEUNd7v3I7J6GF1dGovEZoF/preview"
+            "id": "710ec4dc-5bfb-49d1-bf8c-50ac92695ac2",
+            "title": "Abbott and Costello 02",
+            "videoUrl": "https://drive.google.com/file/d/1_TF2G6NxcaEUNd7v3I7J6GF1dGovEZoF/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Abbott and Costello 03",
-            "urlDrive": "https://drive.google.com/file/d/1-4NVc3af2qgTq-4DiimlsjcNPxDO9Osr/preview"
+            "id": "ee42958d-02e0-42a2-906d-5bf6b3dd8496",
+            "title": "Abbott and Costello 03",
+            "videoUrl": "https://drive.google.com/file/d/1-4NVc3af2qgTq-4DiimlsjcNPxDO9Osr/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Abbott and Costello 04",
-            "urlDrive": "https://drive.google.com/file/d/1KYDMUCKk86G6AXRPJ4bxZUY9BtuFQM7U/preview"
+            "id": "091ecf86-d3a6-4458-889a-3aed98e04b42",
+            "title": "Abbott and Costello 04",
+            "videoUrl": "https://drive.google.com/file/d/1KYDMUCKk86G6AXRPJ4bxZUY9BtuFQM7U/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "Daniel Boone",
-    "descripcion": "Aventuras del explorador Daniel Boone, mediador entre colonos e indios",
-    "imagen": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1964/9/w1280/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg",
-    "temporadas": [
+    "id": "afc4e02c-5302-43ad-ba58-aa18fc7a8b7f",
+    "title": "Daniel Boone",
+    "description": "Aventuras del explorador Daniel Boone, mediador entre colonos e indios",
+    "imageUrl": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/1964/9/w1280/lL4XDk4wRELIqciMtjcrD4TQ5m6.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "d01b0684-540a-4a72-8546-172b958810a1",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Daniel Boone    T1 E01 Kentucky",
-            "urlDrive": "https://drive.google.com/file/d/1NI2XbnrEMAiWeZWeQ3uFjOan6X5P0tQV/preview"
+            "id": "795d886a-c95c-4605-941d-20b8570d8908",
+            "title": "Daniel Boone    T1 E01 Kentucky",
+            "videoUrl": "https://drive.google.com/file/d/1NI2XbnrEMAiWeZWeQ3uFjOan6X5P0tQV/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone    T1  E02 Tekawitha Mcleod",
-            "urlDrive": "https://drive.google.com/file/d/1sIiem4Cj-uY-5GR5hYLHnbwOOj803kwh/preview"
+            "id": "2a03e220-9523-4229-bdcd-c1e726f43ec8",
+            "title": "Daniel Boone    T1  E02 Tekawitha Mcleod",
+            "videoUrl": "https://drive.google.com/file/d/1sIiem4Cj-uY-5GR5hYLHnbwOOj803kwh/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone 1x03 Un Corto camino hacia Salem",
-            "urlDrive": "https://drive.google.com/file/d/10DI_w9_ZHZuXJ7_6KSJzJGCWfz2tebi8/preview"
+            "id": "fe7a0a68-c092-4873-9ecf-adc4614ccf49",
+            "title": "Daniel Boone 1x03 Un Corto camino hacia Salem",
+            "videoUrl": "https://drive.google.com/file/d/10DI_w9_ZHZuXJ7_6KSJzJGCWfz2tebi8/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone    1x05 Pompeya",
-            "urlDrive": "https://drive.google.com/file/d/1nEmJj2DYbEy96gABbSK2W2Han28Xk2uf/preview"
+            "id": "9789dc7e-89ef-42d5-b06f-aec8ae5da3d7",
+            "title": "Daniel Boone    1x05 Pompeya",
+            "videoUrl": "https://drive.google.com/file/d/1nEmJj2DYbEy96gABbSK2W2Han28Xk2uf/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone    1x06 La Eleccion",
-            "urlDrive": "https://drive.google.com/file/d/1T8CPC-g9CJi1eoXjkOmo0VytHXSFkrnC/preview"
+            "id": "4ae533ca-3805-49ea-8cd7-cfb6468701b0",
+            "title": "Daniel Boone    1x06 La Eleccion",
+            "videoUrl": "https://drive.google.com/file/d/1T8CPC-g9CJi1eoXjkOmo0VytHXSFkrnC/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone    1x04 Lac Duquesne",
-            "urlDrive": "https://drive.google.com/file/d/1uGZUlcZv3y24pc7MKk1WtwtMnoxbgdGy/preview"
+            "id": "6ec62a5c-bf08-49c8-9104-ef14e38a7329",
+            "title": "Daniel Boone    1x04 Lac Duquesne",
+            "videoUrl": "https://drive.google.com/file/d/1uGZUlcZv3y24pc7MKk1WtwtMnoxbgdGy/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone    1x08 Mi hermano Keeper",
-            "urlDrive": "https://drive.google.com/file/d/1TWaDKtj9ig4WeyIq9-dhKMp-GqjFkWCA/preview"
+            "id": "3ee89ad9-2dcc-4371-a06d-91d421f81603",
+            "title": "Daniel Boone    1x08 Mi hermano Keeper",
+            "videoUrl": "https://drive.google.com/file/d/1TWaDKtj9ig4WeyIq9-dhKMp-GqjFkWCA/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone    1x10 El Sonido de las alas",
-            "urlDrive": "https://drive.google.com/file/d/1CbDC3YbBRfI3UQPAFLC0hvulZ4EsUCXj/preview"
+            "id": "0a67e85b-5067-4b7d-8e7d-8c84ef010e47",
+            "title": "Daniel Boone    1x10 El Sonido de las alas",
+            "videoUrl": "https://drive.google.com/file/d/1CbDC3YbBRfI3UQPAFLC0hvulZ4EsUCXj/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone    1x07 La familia Fluellen",
-            "urlDrive": "https://drive.google.com/file/d/1nY9RWvB4fndTDi56btHMNjooBLb3jLtj/preview"
+            "id": "c1745f11-d8a7-4294-854d-4a2ea92cdf0d",
+            "title": "Daniel Boone    1x07 La familia Fluellen",
+            "videoUrl": "https://drive.google.com/file/d/1nY9RWvB4fndTDi56btHMNjooBLb3jLtj/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Daniel Boone    1x11 Las hermanas OHannrahan",
-            "urlDrive": "https://drive.google.com/file/d/1mJUtiSz78wumEPBwqhyVPCk55EWHtQH5/preview"
+            "id": "fa28dc66-2006-44a5-90fe-3e2a58d8817e",
+            "title": "Daniel Boone    1x11 Las hermanas OHannrahan",
+            "videoUrl": "https://drive.google.com/file/d/1mJUtiSz78wumEPBwqhyVPCk55EWHtQH5/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "Encanto",
-    "descripcion": "Encanto» relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas",
-    "imagen": "https://es.web.img3.acsta.net/c_310_420/pictures/21/09/29/16/57/5761354.jpg",
-    "temporadas": [
+    "id": "8813bc57-d99a-44ab-a015-3bb10ffda30a",
+    "title": "Encanto",
+    "description": "Encanto» relata la historia de los Madrigal, una familia extraordinaria que vive en una casa mágica de un pueblo vibrante en las montañas de Colombia escondidas",
+    "imageUrl": "https://es.web.img3.acsta.net/c_310_420/pictures/21/09/29/16/57/5761354.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "80cc7a7b-0f9c-4556-a82a-30e119145de9",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Encanto- play",
-            "urlDrive": "https://drive.google.com/file/d/1osAvAyvSXZIp3XTC3Jtuuan4JfslnfB0/preview"
+            "id": "a14852ce-6e3e-4672-b61c-ba2ef4140a76",
+            "title": "Encanto- play",
+            "videoUrl": "https://drive.google.com/file/d/1osAvAyvSXZIp3XTC3Jtuuan4JfslnfB0/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "Patrulla motorizada",
-    "descripcion": "Patrulla motorizada fue una serie de televisión estadounidense creada por Rick Rosner. Conocida en inglés como \"CHiPs\"",
-    "imagen": "https://pbs.twimg.com/media/FRrmIUZXEAUqV9-.jpg",
-    "temporadas": [
+    "id": "6b8f8bcb-7d89-43a7-a2cb-5dde30dd85e3",
+    "title": "Patrulla motorizada",
+    "description": "Patrulla motorizada fue una serie de televisión estadounidense creada por Rick Rosner. Conocida en inglés como \"CHiPs\"",
+    "imageUrl": "https://pbs.twimg.com/media/FRrmIUZXEAUqV9-.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "bebd030d-a8ba-44a6-b47d-e41545d15bfd",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/1l1bDOtRu0c2Es1H89TyiGiiSx8zCsdSV/preview"
+            "id": "b8247783-52de-4af0-b28e-c24a02d14f9d",
+            "title": "Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/1l1bDOtRu0c2Es1H89TyiGiiSx8zCsdSV/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 2",
-            "urlDrive": "https://drive.google.com/file/d/1ssIY3QmeElOzlTPWZD8a13d5dKMRXDED/preview"
+            "id": "c5f55603-c4c5-4048-acd3-5377ea282dda",
+            "title": "Episodio 2",
+            "videoUrl": "https://drive.google.com/file/d/1ssIY3QmeElOzlTPWZD8a13d5dKMRXDED/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 3",
-            "urlDrive": "https://drive.google.com/file/d/1WDTvtsi9ZC-JSKefIUUenshOCAhLa1oI/preview"
+            "id": "53540b5d-c124-4ba2-82de-309154b72d5a",
+            "title": "Episodio 3",
+            "videoUrl": "https://drive.google.com/file/d/1WDTvtsi9ZC-JSKefIUUenshOCAhLa1oI/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 4",
-            "urlDrive": "https://drive.google.com/file/d/1D9m3nxteFSnXVPBjdktev6g0dLBddghZ/preview"
+            "id": "e3726a5a-9f30-49ad-93f8-2d7f72d4f72f",
+            "title": "Episodio 4",
+            "videoUrl": "https://drive.google.com/file/d/1D9m3nxteFSnXVPBjdktev6g0dLBddghZ/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 5",
-            "urlDrive": "https://drive.google.com/file/d/1ZexCnpH8jXS7BIW27rCo2PNLuqdkm_60/preview"
+            "id": "a55ef6d0-f1cd-430e-8426-af648c01b48f",
+            "title": "Episodio 5",
+            "videoUrl": "https://drive.google.com/file/d/1ZexCnpH8jXS7BIW27rCo2PNLuqdkm_60/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/1AcMUaol_n-p85Zn9PFI9TjXs8O6l51jn/preview"
+            "id": "6ba09587-08ef-4224-8cab-7a3e7c57f691",
+            "title": "Episodio 6",
+            "videoUrl": "https://drive.google.com/file/d/1AcMUaol_n-p85Zn9PFI9TjXs8O6l51jn/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 7",
-            "urlDrive": "https://drive.google.com/file/d/1e0ueSd9PJJxPA5y8vyHiXAI68UWXSoBg/preview"
+            "id": "e2dcd43d-0e06-4ed8-93ff-bd52a2f28959",
+            "title": "Episodio 7",
+            "videoUrl": "https://drive.google.com/file/d/1e0ueSd9PJJxPA5y8vyHiXAI68UWXSoBg/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 8",
-            "urlDrive": "https://drive.google.com/file/d/1fdYqyaFtc7rbJKLyISyZbrdsS6qhhIXk/preview"
+            "id": "91615878-8cf9-431b-a7e9-b7db826f31c7",
+            "title": "Episodio 8",
+            "videoUrl": "https://drive.google.com/file/d/1fdYqyaFtc7rbJKLyISyZbrdsS6qhhIXk/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 9",
-            "urlDrive": "https://drive.google.com/file/d/1vle3OQOwTefqgGVEmxI3RLI_5Zzz5aDN/preview"
+            "id": "6eee5fd8-4ce3-46d9-8fa0-0f9975710979",
+            "title": "Episodio 9",
+            "videoUrl": "https://drive.google.com/file/d/1vle3OQOwTefqgGVEmxI3RLI_5Zzz5aDN/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 10",
-            "urlDrive": "https://drive.google.com/file/d/130GNXcAP6FG0RBk1gpQKSy2AwPQS_giK/preview"
+            "id": "3aacd09b-a061-416f-ab10-94bbfabfa213",
+            "title": "Episodio 10",
+            "videoUrl": "https://drive.google.com/file/d/130GNXcAP6FG0RBk1gpQKSy2AwPQS_giK/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 11",
-            "urlDrive": "https://drive.google.com/file/d/1JSvUrPOlYToaBIoRhAnh5UIHjFaVkbhM/preview"
+            "id": "832c4e09-d1b7-4a8c-a07a-d8917e1e3630",
+            "title": "Episodio 11",
+            "videoUrl": "https://drive.google.com/file/d/1JSvUrPOlYToaBIoRhAnh5UIHjFaVkbhM/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 12",
-            "urlDrive": "https://drive.google.com/file/d/18n0bUbBs7r1zfpsRMObsnOemTOtngTYj/preview"
+            "id": "29c4e77e-2189-4133-a4f8-b21ab447af9e",
+            "title": "Episodio 12",
+            "videoUrl": "https://drive.google.com/file/d/18n0bUbBs7r1zfpsRMObsnOemTOtngTYj/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 13",
-            "urlDrive": "https://drive.google.com/file/d/184qPaePr6kMMNyhXQHv4tNgFZvUvkIp_/preview"
+            "id": "6e082576-a782-4d80-8f7d-b2353f1b456a",
+            "title": "Episodio 13",
+            "videoUrl": "https://drive.google.com/file/d/184qPaePr6kMMNyhXQHv4tNgFZvUvkIp_/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 14",
-            "urlDrive": "https://drive.google.com/file/d/1Sw8wpOBYK8tQX2lSvxoZtGJ-W2G8SSPe/preview"
+            "id": "91716877-7949-4975-bb22-66f579e3ad16",
+            "title": "Episodio 14",
+            "videoUrl": "https://drive.google.com/file/d/1Sw8wpOBYK8tQX2lSvxoZtGJ-W2G8SSPe/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 15",
-            "urlDrive": "https://drive.google.com/file/d/1EDF0D4BmQ2d2ftF3FGNcDSnt4kXI8hgx/preview"
+            "id": "93768350-9171-405e-8eb0-5ed6f7bf98e8",
+            "title": "Episodio 15",
+            "videoUrl": "https://drive.google.com/file/d/1EDF0D4BmQ2d2ftF3FGNcDSnt4kXI8hgx/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "Combate!",
-    "descripcion": "Narra la historia de un grupo de soldados estadounidenses que después del desembarco aliado en Normandía en 1944 ,tienen como misión servir como un equipo de avanzada y reconocimiento en la Francia ocupada, cooperando con la resistencia francesa",
-    "imagen": "https://m.media-amazon.com/images/M/MV5BMTk4NDQwNTM3OF5BMl5BanBnXkFtZTcwMjk5OTcyMQ@@._V1_.jpg",
-    "temporadas": [
+    "id": "5a55a33b-028c-443f-8fff-0e7f341a902c",
+    "title": "Combate!",
+    "description": "Narra la historia de un grupo de soldados estadounidenses que después del desembarco aliado en Normandía en 1944 ,tienen como misión servir como un equipo de avanzada y reconocimiento en la Francia ocupada, cooperando con la resistencia francesa",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4NDQwNTM3OF5BMl5BanBnXkFtZTcwMjk5OTcyMQ@@._V1_.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "f5855270-268a-445f-9ca8-953b9b8887ac",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/1TPAMbc2h7b2Ne62uDnnKeDVtSLjcjB3N/preview"
+            "id": "4b62b69f-3167-4861-a29a-3bb86e276bfd",
+            "title": "Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/1TPAMbc2h7b2Ne62uDnnKeDVtSLjcjB3N/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 2",
-            "urlDrive": "https://drive.google.com/file/d/1gljKqFN4c2QXEAhBtnqNUzC7K-G7dOZX/preview"
+            "id": "8280ff64-c8b5-4590-9997-285de5105399",
+            "title": "Episodio 2",
+            "videoUrl": "https://drive.google.com/file/d/1gljKqFN4c2QXEAhBtnqNUzC7K-G7dOZX/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 3",
-            "urlDrive": "https://drive.google.com/file/d/1-xv4lTMtCCOCiYse4InxOFbUlYVQ4Hqs/preview"
+            "id": "c69ec8f9-f1b7-41ce-95ad-2400a88fbdaa",
+            "title": "Episodio 3",
+            "videoUrl": "https://drive.google.com/file/d/1-xv4lTMtCCOCiYse4InxOFbUlYVQ4Hqs/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 4",
-            "urlDrive": "https://drive.google.com/file/d/1S7irb9bFVNC3hl9PMKUBtsSplMipgn5E/preview"
+            "id": "e31378ce-bbd8-4535-9e3d-221ea976cb7c",
+            "title": "Episodio 4",
+            "videoUrl": "https://drive.google.com/file/d/1S7irb9bFVNC3hl9PMKUBtsSplMipgn5E/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 5",
-            "urlDrive": "https://drive.google.com/file/d/1wRwG_fUdrcKm8zYrrrbEk34UXzTrBXXb/preview"
+            "id": "2a428f6e-85ef-44c4-b062-f931ff8b666e",
+            "title": "Episodio 5",
+            "videoUrl": "https://drive.google.com/file/d/1wRwG_fUdrcKm8zYrrrbEk34UXzTrBXXb/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/1PMdI6MhGwQci9GLfZesh0zgLaoCIlS4_/preview"
+            "id": "869e3166-222d-48c8-8841-5803a9774f65",
+            "title": "Episodio 6",
+            "videoUrl": "https://drive.google.com/file/d/1PMdI6MhGwQci9GLfZesh0zgLaoCIlS4_/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 7",
-            "urlDrive": "https://drive.google.com/file/d/19XLMVYArGtsWzFQyRxiW7XN9QA1um_We/preview"
+            "id": "f11bbca7-44f7-4771-b070-6eabbc7d8dc7",
+            "title": "Episodio 7",
+            "videoUrl": "https://drive.google.com/file/d/19XLMVYArGtsWzFQyRxiW7XN9QA1um_We/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 8",
-            "urlDrive": "https://drive.google.com/file/d/1AITlmATTpzpIlUH2f2yso_zhs86VVYBl/preview"
+            "id": "8a2fb9e6-32c7-4f96-aa1f-bba703d7efb0",
+            "title": "Episodio 8",
+            "videoUrl": "https://drive.google.com/file/d/1AITlmATTpzpIlUH2f2yso_zhs86VVYBl/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 9",
-            "urlDrive": "https://drive.google.com/file/d/1g0rUlxBpy67Y-rX7Io99skDlw-eYA65B/preview"
+            "id": "7bdd75df-8516-4033-bd50-311d70740517",
+            "title": "Episodio 9",
+            "videoUrl": "https://drive.google.com/file/d/1g0rUlxBpy67Y-rX7Io99skDlw-eYA65B/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 10",
-            "urlDrive": "https://drive.google.com/file/d/1m_hrS7S5xEn3T2PlXMb3ExskU5apW6Eu/preview"
+            "id": "e21b80f0-791c-4228-b193-c73c4404a8a3",
+            "title": "Episodio 10",
+            "videoUrl": "https://drive.google.com/file/d/1m_hrS7S5xEn3T2PlXMb3ExskU5apW6Eu/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "Kung Fu (Serie de TV 1972–1975)",
-    "descripcion": "Las aventuras de un monje Shaolin que recorre el oeste de Estados Unidos armado tan solo con sus mortales habilidades en Kung Fu.",
-    "imagen": "https://m.media-amazon.com/images/M/MV5BMThjZTE3YWYtZmVhZi00Njg3LWEyNGMtNTQ3MmFjYWJlMzI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "temporadas": [
+    "id": "d10bf32e-9835-488d-9777-5aedf580e512",
+    "title": "Kung Fu (Serie de TV 1972–1975)",
+    "description": "Las aventuras de un monje Shaolin que recorre el oeste de Estados Unidos armado tan solo con sus mortales habilidades en Kung Fu.",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMThjZTE3YWYtZmVhZi00Njg3LWEyNGMtNTQ3MmFjYWJlMzI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "ae1e11e1-22cf-43ad-b1e4-8dd4f38dc05b",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/1JL92WaePc2l7qnkBMy4q37CK2ilY1J-r/preview"
+            "id": "c76b756d-2822-47d6-8287-487a84a3b0f5",
+            "title": "Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/1JL92WaePc2l7qnkBMy4q37CK2ilY1J-r/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 2",
-            "urlDrive": "https://drive.google.com/file/d/1CqXVqjTOdPC3BAJnJNc8LjfaAlI1_EJy/preview"
+            "id": "0fbcbfa2-f976-4f95-aaee-9b03ab40d95c",
+            "title": "Episodio 2",
+            "videoUrl": "https://drive.google.com/file/d/1CqXVqjTOdPC3BAJnJNc8LjfaAlI1_EJy/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 3",
-            "urlDrive": "https://drive.google.com/file/d/1sp3xxslOBveBgZX7G5mEDuMrAhfKbRM4/preview"
+            "id": "a0cc6878-edd1-4bd6-a8fc-7f01c4b1b2e7",
+            "title": "Episodio 3",
+            "videoUrl": "https://drive.google.com/file/d/1sp3xxslOBveBgZX7G5mEDuMrAhfKbRM4/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 4",
-            "urlDrive": "https://drive.google.com/file/d/1s5_T9yRbeCJr5k0q0aNsmEU7-_SpTaB7/preview"
+            "id": "35202e1b-5bb1-4205-9d95-53c7ad15621f",
+            "title": "Episodio 4",
+            "videoUrl": "https://drive.google.com/file/d/1s5_T9yRbeCJr5k0q0aNsmEU7-_SpTaB7/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/12emqO9DhtVharVZipeaWGP6uopA2jS0l/preview"
+            "id": "48517cc1-4842-4ab1-80ff-f12df67ecbce",
+            "title": "Episodio 6",
+            "videoUrl": "https://drive.google.com/file/d/12emqO9DhtVharVZipeaWGP6uopA2jS0l/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 6",
-            "urlDrive": "https://drive.google.com/file/d/1dGBAA7dShydnPjxZz8MQTHDGkXaatYRT/preview"
+            "id": "8c4b9474-edb9-4c2b-9f01-e663794fdb27",
+            "title": "Episodio 6",
+            "videoUrl": "https://drive.google.com/file/d/1dGBAA7dShydnPjxZz8MQTHDGkXaatYRT/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 7",
-            "urlDrive": "https://drive.google.com/file/d/1FEsLM-CA3if8hqIH1PEztmePzBJz2ZrR/preview"
+            "id": "0665dc31-c8bf-4059-898d-5d420d327f02",
+            "title": "Episodio 7",
+            "videoUrl": "https://drive.google.com/file/d/1FEsLM-CA3if8hqIH1PEztmePzBJz2ZrR/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 8",
-            "urlDrive": "https://drive.google.com/file/d/1LWwauAOfiPeF-KC-5vFLRdpggqv6LoS7/preview"
+            "id": "5ade9d7a-0051-4fa0-97cb-cbcb05c5bffc",
+            "title": "Episodio 8",
+            "videoUrl": "https://drive.google.com/file/d/1LWwauAOfiPeF-KC-5vFLRdpggqv6LoS7/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 9",
-            "urlDrive": "https://drive.google.com/file/d/1VgENoaLNm9F90bMEpWgLQH1uvFaRpm6C/preview"
+            "id": "7ed3d6e8-ce5a-4b08-a9d2-ccd0485a386c",
+            "title": "Episodio 9",
+            "videoUrl": "https://drive.google.com/file/d/1VgENoaLNm9F90bMEpWgLQH1uvFaRpm6C/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 10",
-            "urlDrive": "https://drive.google.com/file/d/1urkClQywkTVyYhQ8PMid8AmTDiJCOCpX/preview"
+            "id": "3a3214d5-b839-4650-9ac1-31e309ac5a89",
+            "title": "Episodio 10",
+            "videoUrl": "https://drive.google.com/file/d/1urkClQywkTVyYhQ8PMid8AmTDiJCOCpX/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 11",
-            "urlDrive": "https://drive.google.com/file/d/1P0slRPgWy6PjlIwkDxHRB5hqY41qxAtj/preview"
+            "id": "43242b52-bf80-4320-a80a-162607a4730c",
+            "title": "Episodio 11",
+            "videoUrl": "https://drive.google.com/file/d/1P0slRPgWy6PjlIwkDxHRB5hqY41qxAtj/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 12",
-            "urlDrive": "https://drive.google.com/file/d/1lpNgvcibdRs-vUW2g0Vg0wbgqIDSQByB/preview"
+            "id": "3a5cf142-1980-4626-8ae4-f5f2bf163f31",
+            "title": "Episodio 12",
+            "videoUrl": "https://drive.google.com/file/d/1lpNgvcibdRs-vUW2g0Vg0wbgqIDSQByB/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 13",
-            "urlDrive": "https://drive.google.com/file/d/12LtTaK1gImtrpte2eA1rqXhRSLAaxUQP/preview"
+            "id": "ceb6ea1f-9d0c-4d32-8064-626c1e89e818",
+            "title": "Episodio 13",
+            "videoUrl": "https://drive.google.com/file/d/12LtTaK1gImtrpte2eA1rqXhRSLAaxUQP/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 14",
-            "urlDrive": "https://drive.google.com/file/d/1tWFgRa2Gorm7IHz6clV59oTzqnmSUSd7/preview"
+            "id": "0cf9b7f5-be4a-4a1e-9d9e-1da31e62874f",
+            "title": "Episodio 14",
+            "videoUrl": "https://drive.google.com/file/d/1tWFgRa2Gorm7IHz6clV59oTzqnmSUSd7/preview",
+            "watched": false
           },
           {
-            "tituloEpisodio": "Episodio 15",
-            "urlDrive": "https://drive.google.com/file/d/1mw8RGmXSghrYa9vHEYSXhIPfvkTHqkcL/preview"
+            "id": "33564014-3c54-40a3-8b8f-242e46bd5c0c",
+            "title": "Episodio 15",
+            "videoUrl": "https://drive.google.com/file/d/1mw8RGmXSghrYa9vHEYSXhIPfvkTHqkcL/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "STARSKY & HUTCH",
-    "descripcion": "Starsky y Hutch llegaron a nuestros televisores en 1975, llevando toda la acción y emoción de la gran pantalla a la pequeña, en lo que se convertiría en la serie por excelencia de la época",
-    "imagen": "https://images.justwatch.com/poster/710456/s332/temporada-4",
-    "temporadas": [
+    "id": "cc58e51f-05ce-48c0-8470-1ddbafc49255",
+    "title": "STARSKY & HUTCH",
+    "description": "Starsky y Hutch llegaron a nuestros televisores en 1975, llevando toda la acción y emoción de la gran pantalla a la pequeña, en lo que se convertiría en la serie por excelencia de la época",
+    "imageUrl": "https://images.justwatch.com/poster/710456/s332/temporada-4",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "3a7f70dd-3c32-4a87-8777-ca372f9a280c",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/1vN1uWskUznVCFMrjDau8dA0-4skbbsWO/preview"
+            "id": "665b468e-d61f-4560-9ad4-48818c7cc215",
+            "title": "Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/1vN1uWskUznVCFMrjDau8dA0-4skbbsWO/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:05:29.794Z",
+    "notes": []
   },
   {
-    "tituloSerie": "La novicia voladora",
-    "descripcion": "La Monja Voladora (en inglés y original: The Flying Nun) fue una comedia estadounidense sobre una comunidad de monjas que incluía una que podía volar cuando el viento atrapaba su corneta . Fue producido por Screen Gems para ABC[",
-    "imagen": "https://m.media-amazon.com/images/M/MV5BMzg2ODM2NjA0NF5BMl5BanBnXkFtZTcwMzIyODMzMQ@@._V1_.jpg",
-    "temporadas": [
+    "id": "d18541b5-4e4f-4639-9f48-4e0f9d6b3968",
+    "title": "La novicia voladora",
+    "description": "La Monja Voladora (en inglés y original: The Flying Nun) fue una comedia estadounidense sobre una comunidad de monjas que incluía una que podía volar cuando el viento atrapaba su corneta . Fue producido por Screen Gems para ABC[",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzg2ODM2NjA0NF5BMl5BanBnXkFtZTcwMzIyODMzMQ@@._V1_.jpg",
+    "seasons": [
       {
-        "numeroTemporada": 1,
-        "episodios": [
+        "id": "568e1764-7933-4d73-8fdb-5c78344e8a30",
+        "number": 1,
+        "episodes": [
           {
-            "tituloEpisodio": "Episodio 1",
-            "urlDrive": "https://drive.google.com/file/d/1qUl5c0P9Y1eWSRCnTM4fJzM94in_bJrL/preview"
+            "id": "42d6af00-eefc-45f2-89c2-b11d78319b83",
+            "title": "Episodio 1",
+            "videoUrl": "https://drive.google.com/file/d/1qUl5c0P9Y1eWSRCnTM4fJzM94in_bJrL/preview",
+            "watched": false
+          },
+          {
+            "id": "e8e5d036-182f-473b-9adc-476a23f63c21",
+            "title": "Episodio 2",
+            "videoUrl": "https://drive.google.com/file/d/1gz7PMkFCAXgMktGGITmF-nUIF6KFa6rW/preview",
+            "watched": false
           }
         ]
       }
-    ]
+    ],
+    "dateAdded": "2025-04-23T12:05:29.794Z",
+    "lastModified": "2025-04-23T12:08:59.522Z",
+    "notes": []
   }
 ]
