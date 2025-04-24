@@ -920,5 +920,83 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "Hechizada",
+    "descripcion": "Una bruja casada con un hombre común no puede resistirse a usar sus poderes mágicos para resolver los problemas que enfrenta su familia.",
+    "imagen": "https://image.tmdb.org/t/p/original/38ouaMAYUoWJc6tiZWb6k0yXEYQ.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/10CuCdc6gO-uyeEX98DqDe8yeYhMWyx-E/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/15ozYZg0IH-Kuuu4yWp51UEVQM7gdfHjY/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1JUJu_rAy7xPqoW8pp05jmPqPIgb-9sm4/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1Rl2zAp8d-VSw9fpNtPi1dHr89I5obYdC/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 5",
+            "urlDrive": "https://drive.google.com/file/d/11cQqDMKvRhkgWmifrnPNe_UwNimzAV-Y/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/13v04KGaEu3zhgymrogIO00pSNHGOAQGt/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 7",
+            "urlDrive": "https://drive.google.com/file/d/18OwO6dNkQJlq1flMuRA731IC011tOXgD/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 8",
+            "urlDrive": "https://drive.google.com/file/d/1Q9qnN1JDU3DM46J12ki2CC22g5PIu4Lv/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 9",
+            "urlDrive": "https://drive.google.com/file/d/1RnuRzKwXmZvw4tx9Artl8rCqpUtDI4T3/preview"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tituloSerie": "Misión: Imposible",
+    "descripcion": "Una unidad de operaciones de élite encubiertas lleva a cabo misiones altamente secretas sujetas a negación oficial en caso de muerte o captura.",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BMTg3MDQ4ODQwNF5BMl5BanBnXkFtZTcwODMwODM0MQ@@._V1_FMjpg_UX1000_.jpg",
+    "temporadas": []
+  },
+  {
+    "tituloSerie": "ALF",
+    "descripcion": "Un sabio alienígena peludo se muda a vivir con la familia Tanner después de chocar contra su garaje.",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BNDM5ZWQ1MmItMzk1My00NjhmLWE1NGMtN2E2ZmM4YmE3NWVkXkEyXkFqcGc@._V1_.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1vw4LHK4j__nCYJQV44G8om3ZBtMwY2ki/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/1nGga6W31Mx1xXsVLE9JmmYCPQB-4bkN8/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1-TuDoxbzusG-WhPwTPBUS1L1s2Lxp9g5/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   }
 ]
