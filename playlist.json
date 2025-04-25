@@ -998,5 +998,25 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "Jim West",
+    "descripcion": "Jim West, (The Wild, Wild West, conocida en Latinoamérica como Espías con espuelas) es una serie de televisión del género western, transmitida originalmente por la cadena CBS, en 1965",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_611453-MLA78134970435_082024-O.webp",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1ddyyUWRSvdNbH4qCqf6C3Qo9QCtc8ml-/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/17P341LHP7aT9ocYar02uSv7yQ6-cdZ25/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
