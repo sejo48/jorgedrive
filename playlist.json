@@ -1398,5 +1398,93 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "¿Quién manda a quién?",
+    "descripcion": "¿Quién manda a quién? es una serie televisiva de comedia de situaciones, creada por Martin Cohan y Blake Hunter y protagonizada por Tony Danza y Judith Light. Fue emitida originalmente desde 1984 hasta 1992 por la cadena ABC de Estados Unidos.",
+    "imagen": "https://static.wikia.nocookie.net/doblaje/images/0/07/Who%27s_the_boss.jpg/revision/latest?cb=20100107003056&path-prefix=es",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1x7YwN01Jr11dd6nWtst_zTzDFooXZONC/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1NuuYxyvuZAMcXwN6Ot1r63ddAAhz1944/preview"
+          },
+          {
+            "tituloEpisodio": "pisodio",
+            "urlDrive": "https://drive.google.com/file/d/17UR25yFgd4mRAjKbDt6CjHB1UCcF4Hp_/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/146cKYQ7uK0nFjfFaC0UsPbsF4omCm51d/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1P2LI9ErbwFbud8TtwTj2SjJJR6XvfX1e/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1iJBbuP81pjbXSlwNjm2d4f9SVStRKwAD/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1mhGwO_9jLzSxWN_N7PHmXJH5BPAvhRRH/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1kbjkba6fDTj8UXJwUewlm8VTsEvxjtQV/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1_Mk45jKcBL6uUToMNafDbFuo8ydgXypy/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1sGMkU6csPTS2HQca2zE3GaRaqpiWbfj8/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1cSJS3u2Z33Rdha-vYfhHBeCkrlY59kOw/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1mPsRk2IekKcyEtLOW2paV2_CDe2kscfV/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1iJPdr0Mgu4ku_mqB0acpULlK2EnnlH9w/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1U-lhX_rwGw6vNzkccIeofPvTPtkGhwuO/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1AcP9N9i8eSRLDcDe_-f0YJJnAG9l8Avo/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1B0a0WB16N3-5oLf04pynf86IcL9UaS_k/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1Ookkkke-8NsK46CQmMsL4hWzoo0o4cIw/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1fMCIfMD5-4iy9Khu8nnPWIWXQYN6inqu/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1wFelmxJDIgYI4Co4OqfTgnHcHG7miShb/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
