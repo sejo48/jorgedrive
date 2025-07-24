@@ -1402,7 +1402,7 @@
   {
     "tituloSerie": "¿Quién manda a quién?",
     "descripcion": "¿Quién manda a quién? es una serie televisiva de comedia de situaciones, creada por Martin Cohan y Blake Hunter y protagonizada por Tony Danza y Judith Light. Fue emitida originalmente desde 1984 hasta 1992 por la cadena ABC de Estados Unidos.",
-    "imagen": "https://static.wikia.nocookie.net/doblaje/images/0/07/Who%27s_the_boss.jpg/revision/latest?cb=20100107003056&path-prefix=es",
+    "imagen": "https://cdn11.bigcommerce.com/s-ftsflnse4o/images/stencil/608x608/products/22595/87042/D_734335-MLA77151503125_062024-O__21377.1730701171.jpg?c=1",
     "temporadas": [
       {
         "numeroTemporada": 1,
@@ -1482,6 +1482,82 @@
           {
             "tituloEpisodio": "Episodio",
             "urlDrive": "https://drive.google.com/file/d/1wFelmxJDIgYI4Co4OqfTgnHcHG7miShb/preview"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tituloSerie": "El túnel del tiempo",
+    "descripcion": "Serie de TV de 30 capítulos (1966-1967). Tony Newman y Doug Phillips son los científicos que han creado el proyecto Tic-Toc, una instalación del gobierno enterrada en el desierto. Se trata de un túnel del tiempo que permite visitar cualquier época y lugar. Mientras preparan el túnel, Newman y Phillips quedan atrapados en el tiempo, y cada semana son testigos de un importante hecho histórico. El resto del equipo científico intentará traerlos de regreso sanos y salvos",
+    "imagen": "https://m.media-amazon.com/images/I/71BmlaQBvqL._UF894,1000_QL80_.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1fg0mXkUnLc1OlMVgujJEqk_rFLurmUc5/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/1j_fpdDDWUI2hP3yY3EjoS10f31HrmGqd/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1v6BP2VsJ-vkakRiEsDqveOBSnagt9v9t/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1Vimeah0RA3NdrwGsp-WmRXpxwCQ7-Fk2/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1nDbEFOFGgR05H5zal_-vIQuxH81WEgDw/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 5",
+            "urlDrive": "https://drive.google.com/file/d/1zfbgik-cgctg7eWuzPHd6cp_tcDlvoE6/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/1LzoxntF8YkLAAqBw2YoFyvhyigbb9Sgv/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 7",
+            "urlDrive": "https://drive.google.com/file/d/1QIunA3pOC7Wn5DtvhNE04625x-1Kyr8h/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 8",
+            "urlDrive": "https://drive.google.com/file/d/1Ss5iILm9m08zNZ6id23aD-0Q9orO2gov/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 9",
+            "urlDrive": "https://drive.google.com/file/d/1rMmEAKgEjiQb_ntem9qPx8ELjvbEQg4N/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 10",
+            "urlDrive": "https://drive.google.com/file/d/1WQYDNGeVPuBJxLiVoW2H67SRUWyEJPnO/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 11",
+            "urlDrive": "https://drive.google.com/file/d/1I0smsTuHLPOKISjxu8z_VMJS7vvarY5D/preview\" width=\"640"
+          },
+          {
+            "tituloEpisodio": "Episodio 12",
+            "urlDrive": "https://drive.google.com/file/d/10jtsa2Qd4V5v5uCgi_a9ZAmVFOBgGe3S/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 13",
+            "urlDrive": "https://drive.google.com/file/d/15ipOGJiJFm4_9o9dnGWNvffpnZBxz9yK/preview\" width=\"640"
+          },
+          {
+            "tituloEpisodio": "Episodio 14",
+            "urlDrive": "https://drive.google.com/file/d/145XkijoOEWNBZoB91NP0BT7WQyCNXq81/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 15",
+            "urlDrive": "https://drive.google.com/file/d/14qiGpVpdQCntuvwbHxDeSVnhhweHva8G/preview"
           }
         ]
       }
