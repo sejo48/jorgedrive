@@ -1562,5 +1562,61 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "Blanco y Negro",
+    "descripcion": "Serie de TV (1978-1986). 6 temporadas. 189 episodios. Popular telecomedia de los años ochenta que narra las aventuras de Philip Drummond (Conrad Bain), un millonario de Nueva York que vive en un lujoso apartamento de Park Avenue y que adopta y cría a dos chicos afroamericanos (Gary Coleman y Todd Bridges).",
+    "imagen": "https://static.wikia.nocookie.net/doblaje/images/9/91/Blanco_y_negro.jpeg/revision/latest?cb=20221116075032&path-prefix=es",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1AEvqxO0zJHAd228n_y3OSZ1Hy2XrRG9f/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/1bGQD02lSZX7NIV2rWW-oAkcBfz-_xFY8/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1cn8BzUpkc2JqQkgakp-5Xhhr0xiLrO4-/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1W0d5a7iTZ-gpFmKa2g0ScOZZBH1zv_3U/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 5",
+            "urlDrive": "https://drive.google.com/file/d/1OhJ9aKY0xZNEgqJoMF9Kj28liE_XSt8f/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/1jlUrFC4duPWDwPTQ-1Yu-9l5Xjes8nSj/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 7",
+            "urlDrive": "https://drive.google.com/file/d/1asB4xIVh-FCC5ngKtsy8aez3erqrc_0n/preview\" width=\"640"
+          },
+          {
+            "tituloEpisodio": "Episodio 8",
+            "urlDrive": "https://drive.google.com/file/d/1XLGZh9-e38DqutcpfU0NVq_Nn4HM6VQk/preview\" width=\"640"
+          },
+          {
+            "tituloEpisodio": "Episodio 9",
+            "urlDrive": "https://drive.google.com/file/d/1OPLCDLZuwHZHuOdPVgU4EeBKNBazVXXO/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 10",
+            "urlDrive": "https://drive.google.com/file/d/1ZugUpiMtBzqA-TlN--gjvj-OceN5Sqnz/preview"
+          },
+          {
+            "tituloEpisodio": "Episodio 11",
+            "urlDrive": "https://drive.google.com/file/d/13s-2H86F_neM3K_3GT0yLCTSDntmSv-z/preview"
+          }
+        ]
+      }
+    ]
   }
 ]
