@@ -1618,5 +1618,53 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "Mi marciano favorito",
+    "descripcion": "Serie de TV (1963-1966). 3 temporadas. 107 episodios. Un sarcástico marciano se queda a vivir en el apartamento de un desventurado hombre.",
+    "imagen": "https://pics.filmaffinity.com/my_favorite_martian-719821490-mmed.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/1yb6j4kohRZhownRNhioRXR99V21Gj6uU/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 2",
+            "urlDrive": "https://drive.google.com/file/d/1wswNikHMPPZhwR3Fco-u2vuwfILK0GoX/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1CzD-8aBVlraeC7pr-XQ6EUc07qkZ9w6n/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1ibN6bMbdGaB8mL1GbmpAA7lRJOdJlr1Q/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 5",
+            "urlDrive": "https://drive.google.com/file/d/1D2m3BML7S_GUnuPbjMDHqTB_poAux64O/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/1WvHbcuiZ2ix7yYfGC4yHC7hnd5mVDmQZ/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 7",
+            "urlDrive": "https://drive.google.com/file/d/1eTsEpD5NCjZuWocE7eow8W1-mLmQ07kw/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 8",
+            "urlDrive": "https://drive.google.com/file/d/1A801BcMYSGkt1q6OSCgQEGFACOucsbgp/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 9",
+            "urlDrive": "https://drive.google.com/file/d/1elXPJQFOsA2Tk0rSqtcb30JMWsyD2Rp2/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   }
 ]
