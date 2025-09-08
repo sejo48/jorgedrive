@@ -2050,5 +2050,121 @@
         ]
       }
     ]
+  },
+  {
+    "tituloSerie": "Tierra De Gigantes",
+    "descripcion": "En 1983, un vuelo suborbital de Los Angeles a Londres queda atrapado en una distorsión espacial y se estrella en un planeta muy parecido a La Tierra. Sin embargo, los habitantes y la vida vegetal son doce veces más grandes de lo normal y su tecnología está veinte años atrasada a la de La Tierra. También, el planeta es dirigido por un gobierno totalitario que usa a las \"personas pequeñas\" como chivos expiatorios y trata de seguirles la pista para usar su avanzada tecnología.",
+    "imagen": "https://images.abandomoviez.net/dbs/foto/dbs_392.jpg",
+    "temporadas": [
+      {
+        "numeroTemporada": 1,
+        "episodios": [
+          {
+            "tituloEpisodio": "Episodio 1",
+            "urlDrive": "https://drive.google.com/file/d/17datQSbWHgYl3T387tArI4OCEIcMrnGW/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio2",
+            "urlDrive": "https://drive.google.com/file/d/1wSsfmU9K35rWzND-xufNy6WD4qr41puj/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 3",
+            "urlDrive": "https://drive.google.com/file/d/1CTdebYF6GWZ_T8ULKrADaEMFpY-Yrgj-/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 4",
+            "urlDrive": "https://drive.google.com/file/d/1p4Nlnld-yLHWWvmdnQ_Ek4yybI0HiZQb/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 5",
+            "urlDrive": "https://drive.google.com/file/d/1IdjrPpJNCdJc9bReWm2tAidnaf_gOy4K/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 6",
+            "urlDrive": "https://drive.google.com/file/d/1aqQUSETq6W3kJQdLoE-qpHTTSs1MbnBr/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 7",
+            "urlDrive": "https://drive.google.com/file/d/1yT7ZbsQmKPvxy6JIcj5mY-NxkEAwlTyQ/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 8",
+            "urlDrive": "https://drive.google.com/file/d/1B7JOtDdyatZSiSA7d0L8uQwayAEsDhIT/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 9",
+            "urlDrive": "https://drive.google.com/file/d/1Gt-M94Pv_UcfRnKJs_89BXZknowZZI6N/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 10",
+            "urlDrive": "https://drive.google.com/file/d/1fFMbqEm-dSEWrACuAOv_tfr_QkZ6Lq7n/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1o8mSEXChtU7YqaTOIP1EAIDBBF2iOd8q/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 12",
+            "urlDrive": "https://drive.google.com/file/d/1X5fFlrF4CRBzMJ0B-081j01s5IQyvmk6/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 13",
+            "urlDrive": "https://drive.google.com/file/d/1aom4bGhuTVuNuedupWdORVnKVejFn6KW/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 14",
+            "urlDrive": "https://drive.google.com/file/d/1A04dY52fFtpg4rO9M2CUapmQ_1xKWwA-/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 15",
+            "urlDrive": "https://drive.google.com/file/d/1twUKTro4UIIYsiU3dozhDUBISPBviQcH/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 16",
+            "urlDrive": "https://drive.google.com/file/d/1dFkYqWwbwz7whV_2PkOdrKLJkLALBxjf/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 17",
+            "urlDrive": "https://drive.google.com/file/d/1ebxj3Xad87KPPKXmxZRBuNj4VNpEbwNo/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 18",
+            "urlDrive": "https://drive.google.com/file/d/18fcZEJc0YOLQYssse972L2wCZNnSipg2/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 19",
+            "urlDrive": "https://drive.google.com/file/d/1UjVuEfRioR-px8K4eKmfdjF3Svxm1NYb/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 20",
+            "urlDrive": "https://drive.google.com/file/d/1ci0Ak56HkjZWiivyvberl9P0OqGJZNQP/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 21",
+            "urlDrive": "https://drive.google.com/file/d/1mkPn0OjZe74pQu93YaAOC7qWpPVyZ51H/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio",
+            "urlDrive": "https://drive.google.com/file/d/1HE0JfQKESs95EcfiMZyKJ5Xn6zGaL_YL/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 23",
+            "urlDrive": "https://drive.google.com/file/d/1i7n60OghmRwpUggIamxqRxZwkWy6Cfcc/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 24",
+            "urlDrive": "https://drive.google.com/file/d/1PtI5orc_5kVadHIvMV7Pz53nMwgS_rRy/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 25",
+            "urlDrive": "https://drive.google.com/file/d/1Vx9YneQhHLo4MWnlmOoLErsRZ7AAXQYV/view?usp=sharing"
+          },
+          {
+            "tituloEpisodio": "Episodio 26",
+            "urlDrive": "https://drive.google.com/file/d/13lHwyeDMeMHIfACR9tN_ptE_Ys6tW0nC/view?usp=sharing"
+          }
+        ]
+      }
+    ]
   }
 ]
